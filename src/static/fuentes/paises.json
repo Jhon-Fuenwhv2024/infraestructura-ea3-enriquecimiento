@@ -1,0 +1,213 @@
+[
+ {
+  "country": "Australia",
+  "iso2": "AU",
+  "iso3": "AUS",
+  "iso_numerico": "036",
+  "continente": "Oceania",
+  "nombres_dataset": [
+   "Australia"
+  ]
+ },
+ {
+  "country": "Austria",
+  "iso2": "AT",
+  "iso3": "AUT",
+  "iso_numerico": "040",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Austria"
+  ]
+ },
+ {
+  "country": "Belgium",
+  "iso2": "BE",
+  "iso3": "BEL",
+  "iso_numerico": "056",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Belgium"
+  ]
+ },
+ {
+  "country": "Canada",
+  "iso2": "CA",
+  "iso3": "CAN",
+  "iso_numerico": "124",
+  "continente": "America del Norte",
+  "nombres_dataset": [
+   "Canada"
+  ]
+ },
+ {
+  "country": "United Kingdom",
+  "iso2": "GB",
+  "iso3": "GBR",
+  "iso_numerico": "826",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "England",
+   "Scotland"
+  ]
+ },
+ {
+  "country": "Finland",
+  "iso2": "FI",
+  "iso3": "FIN",
+  "iso_numerico": "246",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Finland"
+  ]
+ },
+ {
+  "country": "France",
+  "iso2": "FR",
+  "iso3": "FRA",
+  "iso_numerico": "250",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "France"
+  ]
+ },
+ {
+  "country": "Germany",
+  "iso2": "DE",
+  "iso3": "DEU",
+  "iso_numerico": "276",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Germany"
+  ]
+ },
+ {
+  "country": "Ireland",
+  "iso2": "IE",
+  "iso3": "IRL",
+  "iso_numerico": "372",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Ireland"
+  ]
+ },
+ {
+  "country": "Isle of Man",
+  "iso2": "IM",
+  "iso3": "IMN",
+  "iso_numerico": "833",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Isle of Man"
+  ]
+ },
+ {
+  "country": "Italy",
+  "iso2": "IT",
+  "iso3": "ITA",
+  "iso_numerico": "380",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Italy"
+  ]
+ },
+ {
+  "country": "Japan",
+  "iso2": "JP",
+  "iso3": "JPN",
+  "iso_numerico": "392",
+  "continente": "Asia",
+  "nombres_dataset": [
+   "Japan"
+  ]
+ },
+ {
+  "country": "Netherlands",
+  "iso2": "NL",
+  "iso3": "NLD",
+  "iso_numerico": "528",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Netherlands"
+  ]
+ },
+ {
+  "country": "New Zealand",
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "iso_numerico": "554",
+  "continente": "Oceania",
+  "nombres_dataset": [
+   "New Zealand"
+  ]
+ },
+ {
+  "country": "Poland",
+  "iso2": "PL",
+  "iso3": "POL",
+  "iso_numerico": "616",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Poland"
+  ]
+ },
+ {
+  "country": "Portugal",
+  "iso2": "PT",
+  "iso3": "PRT",
+  "iso_numerico": "620",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Portugal"
+  ]
+ },
+ {
+  "country": "Singapore",
+  "iso2": "SG",
+  "iso3": "SGP",
+  "iso_numerico": "702",
+  "continente": "Asia",
+  "nombres_dataset": [
+   "Singapore"
+  ]
+ },
+ {
+  "country": "South Africa",
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "iso_numerico": "710",
+  "continente": "Africa",
+  "nombres_dataset": [
+   "South Africa"
+  ]
+ },
+ {
+  "country": "Korea, Republic of",
+  "iso2": "KR",
+  "iso3": "KOR",
+  "iso_numerico": "410",
+  "continente": "Asia",
+  "nombres_dataset": [
+   "South Korea"
+  ]
+ },
+ {
+  "country": "Sweden",
+  "iso2": "SE",
+  "iso3": "SWE",
+  "iso_numerico": "752",
+  "continente": "Europa",
+  "nombres_dataset": [
+   "Sweden"
+  ]
+ },
+ {
+  "country": "United States",
+  "iso2": "US",
+  "iso3": "USA",
+  "iso_numerico": "840",
+  "continente": "America del Norte",
+  "nombres_dataset": [
+   "United States"
+  ]
+ }
+]

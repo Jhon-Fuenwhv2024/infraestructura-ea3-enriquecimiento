@@ -1,0 +1,139 @@
+==============================================================================
+REPORTE DE AUDITORIA - EA3 ENRIQUECIMIENTO DE DATOS
+Curso: Infraestructura y arquitectura para Big Data
+Autor: Jhon Jairo Fuentes Turizo
+Fecha de ejecucion (America/Bogota, UTC-5): 2026-09-30 15:02:43
+==============================================================================
+
+DECLARACION DE PROCEDENCIA DE LAS FUENTES ADICIONALES
+------------------------------------------------------------------------------
+Las 6 fuentes de src/static/fuentes/ son archivos de referencia que construi yo con src/generar_fuentes.py.
+No los descargue de una API externa y tampoco son datos propios de las cerveceras. Los arme a partir de
+ISO 3166 (pycountry), CLDR (babel), husos IANA (timezonefinder), los tipos de la documentacion de
+Open Brewery DB y capitales/continentes que compile a mano. Detalle en src/static/fuentes/PROCEDENCIA.txt.
+
+1. REGISTROS: BASE vs ENRIQUECIDO
+------------------------------------------------------------------------------
+Base SQLite (src/static/db/ingestion.db, tabla cerveceria, sin limpiar): 3025 registros
+Dataset limpio EA2 (src/static/xlsx/cleaned_data.xlsx) = BASE del enriquecimiento: 3000 registros, 14 columnas
+   ids limpios presentes en la base SQLite: 3000 de 3000 | ids unicos: 3000
+   registros eliminados por la limpieza de EA2: 25
+Dataset enriquecido: 3000 registros, 32 columnas (16 nuevas de fuentes + fuentes_coincidentes + enriquecimiento_completo)
+Diferencia de registros base vs enriquecido: 0 (merges LEFT; se valida con assert)
+Registros con las 16 columnas nuevas informadas (enriquecimiento_completo=True): 827 (27.6%)
+Exportacion COMPLETA (3000 filas, hoja 'enriquecido' + hoja 'resumen_cruces'): src/static/xlsx/enriched_data.xlsx y src/xlsx/enriched_data.xlsx
+src/db/ingestion.db identica a src/static/db/ingestion.db: SI (sha256 253e4e7eb58a9630...)
+
+2. REGISTROS COINCIDENTES Y NO COINCIDENTES POR FUENTE
+------------------------------------------------------------------------------
+[1] paises.json (JSON) - lector: pd.read_json + explode(nombres_dataset)
+    clave de union      : pais (normalizado)
+    filas fuente        : 22 | claves unicas: 22 | duplicados de clave descartados: 0
+    COINCIDENTES        : 3000 de 3000 (100.0%)
+    NO COINCIDENTES     : 0 de 3000 (0.0%) en 0 claves distintas de la base
+    mayores no coincid. : ninguna
+    claves de la fuente sin uso en la base: 0
+    columnas agregadas  : iso2, iso3, iso_numerico, continente
+
+[2] paises_capital.xlsx (XLSX) - lector: pd.read_excel(sheet_name='paises')
+    clave de union      : pais (normalizado)
+    filas fuente        : 22 | claves unicas: 22 | duplicados de clave descartados: 0
+    COINCIDENTES        : 3000 de 3000 (100.0%)
+    NO COINCIDENTES     : 0 de 3000 (0.0%) en 0 claves distintas de la base
+    mayores no coincid. : ninguna
+    claves de la fuente sin uso en la base: 0
+    columnas agregadas  : capital_pais, moneda_iso4217, nombre_moneda
+
+[3] tipos_cerveceria.csv (CSV) - lector: pd.read_csv
+    clave de union      : tipo_cerveza (normalizado)
+    filas fuente        : 10 | claves unicas: 10 | duplicados de clave descartados: 0
+    COINCIDENTES        : 2984 de 3000 (99.5%)
+    NO COINCIDENTES     : 16 de 3000 (0.5%) en 3 claves distintas de la base
+    mayores no coincid. : taproom (14); cidery (1); beergarden (1)
+    claves de la fuente sin uso en la base: 0
+    columnas agregadas  : descripcion_tipo, estado_operativo, tipo_obsoleto_en_api
+
+[4] estados.xml (XML) - lector: pd.read_xml(xpath='.//subdivision')
+    clave de union      : iso2 + estado_provincia (nombre o abreviatura ISO)
+    filas fuente        : 1612 | claves unicas: 1612 | duplicados de clave descartados: 0
+    COINCIDENTES        : 2799 de 3000 (93.3%)
+    NO COINCIDENTES     : 201 de 3000 (6.7%) en 18 claves distintas de la base
+    mayores no coincid. : BE|vlaanderen (84); BE|region wallonne (63); BE|brussels capital (20); NZ|wellington (9); SG|singapore (7); SE|stockholm county (3); SE|blekinge (3); BE|region flamande (2)
+    claves de la fuente sin uso en la base: 1476 (ej.: ['AT|1', 'AT|2', 'AT|3', 'AT|4', 'AT|5'])
+    columnas agregadas  : subdivision_nombre_iso, subdivision_iso3166_2, subdivision_tipo
+
+[5] ciudades.html (HTML) - lector: pd.read_html(attrs={'id':'ciudades'})
+    clave de union      : ciudad + estado_provincia + pais
+    filas fuente        : 166 | claves unicas: 166 | duplicados de clave descartados: 0
+    COINCIDENTES        : 900 de 3000 (30.0%)
+    NO COINCIDENTES     : 2100 de 3000 (70.0%) en 1846 claves distintas de la base
+    mayores no coincid. : henderson|nevada|united states (5); fredericksburg|virginia|united states (4); ottawa|ontario|canada (4); new york|new york|united states (3); lebbeke|vlaanderen|belgium (2); gilbert|arizona|united states (2); mesa|arizona|united states (2); coraopolis|pennsylvania|united states (2)
+    claves de la fuente sin uso en la base: 0
+    columnas agregadas  : zona_horaria
+
+[6] idiomas.txt (TXT) - lector: pd.read_csv(sep='|', comment='#')
+    clave de union      : iso2 (heredado del merge JSON)
+    filas fuente        : 21 | claves unicas: 21 | duplicados de clave descartados: 0
+    COINCIDENTES        : 3000 de 3000 (100.0%)
+    NO COINCIDENTES     : 0 de 3000 (0.0%) en 0 claves distintas de la base
+    mayores no coincid. : ninguna
+    claves de la fuente sin uso en la base: 0
+    columnas agregadas  : idiomas_oficiales, idioma_principal
+
+Distribucion de registros segun cuantas de las 6 fuentes coincidieron:
+    4 fuentes: 144 registros (4.8%)
+    5 fuentes: 2029 registros (67.6%)
+    6 fuentes: 827 registros (27.6%)
+
+3. COBERTURA POR COLUMNA NUEVA (registros con valor)
+------------------------------------------------------------------------------
+    iso2: 3000 de 3000 (100.0%); vacios: 0
+    iso3: 3000 de 3000 (100.0%); vacios: 0
+    iso_numerico: 3000 de 3000 (100.0%); vacios: 0
+    continente: 3000 de 3000 (100.0%); vacios: 0
+    capital_pais: 3000 de 3000 (100.0%); vacios: 0
+    moneda_iso4217: 3000 de 3000 (100.0%); vacios: 0
+    nombre_moneda: 3000 de 3000 (100.0%); vacios: 0
+    descripcion_tipo: 2984 de 3000 (99.5%); vacios: 16
+    estado_operativo: 2984 de 3000 (99.5%); vacios: 16
+    tipo_obsoleto_en_api: 2984 de 3000 (99.5%); vacios: 16
+    subdivision_nombre_iso: 2799 de 3000 (93.3%); vacios: 201
+    subdivision_iso3166_2: 2799 de 3000 (93.3%); vacios: 201
+    subdivision_tipo: 2799 de 3000 (93.3%); vacios: 201
+    zona_horaria: 900 de 3000 (30.0%); vacios: 2100
+    idiomas_oficiales: 3000 de 3000 (100.0%); vacios: 0
+    idioma_principal: 3000 de 3000 (100.0%); vacios: 0
+
+4. TRANSFORMACIONES APLICADAS
+------------------------------------------------------------------------------
+- Base = dataset limpio de EA2 (duplicados, filas basura y placeholders ya tratados en src/cleaning.py).
+- Lectura de cada fuente con Pandas segun su formato (ver 'lector'); XML con lxml, HTML con lxml/bs4/html5lib.
+- Normalizacion de claves (funcion norm): NFKD sin tildes, minusculas, puntuacion -> espacio, espacios colapsados,
+  sufijo final 'region' eliminado (p. ej. 'Bay of Plenty Region' = 'Bay of Plenty').
+- Claves compuestas: iso2|estado (XML, por nombre o abreviatura ISO) y ciudad|estado|pais (HTML).
+- Cadena de dependencia: el iso2 obtenido del JSON alimenta las claves de XML y TXT.
+- Duplicados de clave en la fuente se descartan antes del merge para no multiplicar registros.
+- Merges LEFT: los registros sin coincidencia conservan las columnas nuevas vacias (no se inventan valores).
+- Columnas de control: fuentes_coincidentes (0-6) y enriquecimiento_completo (booleano).
+
+5. OBSERVACIONES POR FUENTE
+------------------------------------------------------------------------------
+- paises.json: cobertura 100.0%. ISO 3166-1 (pycountry) + continente manual. England y Scotland se mapean a GB.
+- paises_capital.xlsx: cobertura 100.0%. Capital manual; moneda CLDR (babel).
+- tipos_cerveceria.csv: cobertura 99.5%. Segun documentacion de Open Brewery DB; taproom/cidery/beergarden no estan documentados -> no coinciden.
+- estados.xml: cobertura 93.3%. ISO 3166-2 completo de los paises del dataset (sin recorte); el desajuste de nombres es real.
+- ciudades.html: cobertura 30.0%. Solo ciudades con >= 3 cervecerias con coordenadas: cobertura parcial por diseno.
+- idiomas.txt: cobertura 100.0%. Idiomas oficiales/de facto (CLDR via babel). Depende de que el pais haya coincidido en JSON.
+
+6. OBSERVACIONES GENERALES / LIMITACIONES
+------------------------------------------------------------------------------
+- La cobertura alta en JSON/XLSX/TXT se debe a que yo arme esas tablas con los paises del dataset; no mide la
+  calidad de una fuente externa independiente.
+- Las diferencias en XML (nombres locales como 'Vlaanderen', 'Ostrobothnia', 'Stockholm County') y HTML (ciudades con
+  menos de 3 cervecerias) las deje como no coincidentes a proposito, sin forzar alias manuales.
+- Las fuentes no traen informacion propia de cada cerveceria (ventas, produccion); solo agregan datos geograficos,
+  monetarios, de idioma y de clasificacion de tipo.
+- Verificacion independiente: python src/verificar_conteos.py
+
+Fin del reporte
+==============================================================================

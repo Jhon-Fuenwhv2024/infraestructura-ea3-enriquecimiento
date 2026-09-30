@@ -1,0 +1,128 @@
+======================================================================
+REPORTE DE LIMPIEZA DE DATOS - EA2
+Curso: PREICA2602B010136
+Autor: Jhon Jairo Fuentes Turizo
+Fecha (UTC): 2026-09-30T20:02:23.795114+00:00
+Fuente: src/static/db/ingestion.db (tabla cerveceria)
+Línea de origen: Open Brewery DB + filas sucias (simulación nube EA1)
+======================================================================
+
+1. EXPLORACIÓN INICIAL
+   Filas: 3025
+   Columnas (14): id, nombre, tipo_cerveza, direccion, ciudad, estado_provincia, codigo_postal, pais, longitud, latitud, telefono, sitio_web, estado, street
+   Tipos de dato (antes):
+      - id: str
+      - nombre: str
+      - tipo_cerveza: str
+      - direccion: str
+      - ciudad: str
+      - estado_provincia: str
+      - codigo_postal: str
+      - pais: str
+      - longitud: str
+      - latitud: str
+      - telefono: str
+      - sitio_web: str
+      - estado: str
+      - street: str
+   Nulos (pandas NA / None):
+      - id: 0
+      - nombre: 10
+      - tipo_cerveza: 0
+      - direccion: 197
+      - ciudad: 0
+      - estado_provincia: 20
+      - codigo_postal: 0
+      - pais: 20
+      - longitud: 0
+      - latitud: 0
+      - telefono: 361
+      - sitio_web: 374
+      - estado: 0
+      - street: 197
+   Cadenas vacías / placeholders ('', None, nan, NULL):
+      - id: 0
+      - nombre: 0
+      - tipo_cerveza: 20
+      - direccion: 0
+      - ciudad: 20
+      - estado_provincia: 0
+      - codigo_postal: 0
+      - pais: 0
+      - longitud: 609
+      - latitud: 609
+      - telefono: 20
+      - sitio_web: 20
+      - estado: 20
+      - street: 0
+   Duplicados (fila completa): 0
+   Duplicados (por id): 0
+   Valores únicos tipo_cerveza (antes): ['', 'bar', 'beergarden', 'brewpub', 'cidery', 'closed', 'contract', 'large', 'micro', 'nano', 'planning', 'proprietor', 'regional', 'taproom']
+
+2. TRANSFORMACIONES APLICADAS
+   - Conversión de placeholders y blancos a nulos
+   - Eliminación de duplicados por id (incl. sufijo -dup) y fila completa
+   - Eliminación de filas basura (id dirty-* o sin nombre/tipo)
+   - Conversión de longitud/latitud a float (pd.to_numeric, errors='coerce')
+   - Normalización de tipo_cerveza a minúsculas / catálogo conocido
+   - Relleno de nulos textuales (DESCONOCIDO / N/D / unknown);
+     lon/lat inválidas permanecen como NaN
+
+3. MÉTRICAS
+   Filas antes: 3025
+   Filas después: 3000
+   Filas eliminadas (total): 25
+   Eliminadas por duplicados: 5
+   Eliminadas por basura/id nulo: 20
+   Nulos antes (post-placeholder):
+      - id: 0
+      - nombre: 10
+      - tipo_cerveza: 20
+      - direccion: 197
+      - ciudad: 20
+      - estado_provincia: 20
+      - codigo_postal: 0
+      - pais: 20
+      - longitud: 609
+      - latitud: 609
+      - telefono: 381
+      - sitio_web: 394
+      - estado: 20
+      - street: 197
+   Nulos después:
+      - id: 0
+      - nombre: 0
+      - tipo_cerveza: 0
+      - direccion: 0
+      - ciudad: 0
+      - estado_provincia: 0
+      - codigo_postal: 0
+      - pais: 0
+      - longitud: 589
+      - latitud: 589
+      - telefono: 0
+      - sitio_web: 0
+      - estado: 0
+      - street: 0
+   Distribución tipo_cerveza (después):
+      - micro: 1551
+      - brewpub: 919
+      - closed: 179
+      - planning: 143
+      - regional: 58
+      - contract: 53
+      - large: 45
+      - proprietor: 15
+      - taproom: 14
+      - bar: 13
+      - nano: 8
+      - beergarden: 1
+      - cidery: 1
+
+4. SALIDAS
+   Excel limpio: src/static/xlsx/cleaned_data.xlsx
+   Este reporte: src/static/auditoria/cleaning_report.txt
+
+======================================================================
+Fin del reporte
+======================================================================

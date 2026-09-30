@@ -1,0 +1,810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- ISO 3166-2 via pycountry 26.2.16 (Debian iso-codes). Lo armé con generar_fuentes.py -->
+<subdivisiones>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Burgenland</nombre><abreviatura>1</abreviatura><iso_3166_2>AT-1</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Kärnten</nombre><abreviatura>2</abreviatura><iso_3166_2>AT-2</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Niederösterreich</nombre><abreviatura>3</abreviatura><iso_3166_2>AT-3</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Oberösterreich</nombre><abreviatura>4</abreviatura><iso_3166_2>AT-4</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Salzburg</nombre><abreviatura>5</abreviatura><iso_3166_2>AT-5</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Steiermark</nombre><abreviatura>6</abreviatura><iso_3166_2>AT-6</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Tirol</nombre><abreviatura>7</abreviatura><iso_3166_2>AT-7</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Vorarlberg</nombre><abreviatura>8</abreviatura><iso_3166_2>AT-8</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AT</iso2><pais>Austria</pais><nombre>Wien</nombre><abreviatura>9</abreviatura><iso_3166_2>AT-9</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>Australian Capital Territory</nombre><abreviatura>ACT</abreviatura><iso_3166_2>AU-ACT</iso_3166_2><tipo>Territory</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>New South Wales</nombre><abreviatura>NSW</abreviatura><iso_3166_2>AU-NSW</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>Northern Territory</nombre><abreviatura>NT</abreviatura><iso_3166_2>AU-NT</iso_3166_2><tipo>Territory</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>Queensland</nombre><abreviatura>QLD</abreviatura><iso_3166_2>AU-QLD</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>South Australia</nombre><abreviatura>SA</abreviatura><iso_3166_2>AU-SA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>Tasmania</nombre><abreviatura>TAS</abreviatura><iso_3166_2>AU-TAS</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>Victoria</nombre><abreviatura>VIC</abreviatura><iso_3166_2>AU-VIC</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>AU</iso2><pais>Australia</pais><nombre>Western Australia</nombre><abreviatura>WA</abreviatura><iso_3166_2>AU-WA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Bruxelles-Capitale, Région de</nombre><abreviatura>BRU</abreviatura><iso_3166_2>BE-BRU</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Antwerpen</nombre><abreviatura>VAN</abreviatura><iso_3166_2>BE-VAN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Vlaams-Brabant</nombre><abreviatura>VBR</abreviatura><iso_3166_2>BE-VBR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Vlaams Gewest</nombre><abreviatura>VLG</abreviatura><iso_3166_2>BE-VLG</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Limburg</nombre><abreviatura>VLI</abreviatura><iso_3166_2>BE-VLI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Oost-Vlaanderen</nombre><abreviatura>VOV</abreviatura><iso_3166_2>BE-VOV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>West-Vlaanderen</nombre><abreviatura>VWV</abreviatura><iso_3166_2>BE-VWV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>wallonne, Région</nombre><abreviatura>WAL</abreviatura><iso_3166_2>BE-WAL</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Brabant wallon</nombre><abreviatura>WBR</abreviatura><iso_3166_2>BE-WBR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Hainaut</nombre><abreviatura>WHT</abreviatura><iso_3166_2>BE-WHT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Liège</nombre><abreviatura>WLG</abreviatura><iso_3166_2>BE-WLG</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Luxembourg</nombre><abreviatura>WLX</abreviatura><iso_3166_2>BE-WLX</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>BE</iso2><pais>Belgium</pais><nombre>Namur</nombre><abreviatura>WNA</abreviatura><iso_3166_2>BE-WNA</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Alberta</nombre><abreviatura>AB</abreviatura><iso_3166_2>CA-AB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>British Columbia</nombre><abreviatura>BC</abreviatura><iso_3166_2>CA-BC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Manitoba</nombre><abreviatura>MB</abreviatura><iso_3166_2>CA-MB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>New Brunswick</nombre><abreviatura>NB</abreviatura><iso_3166_2>CA-NB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Newfoundland and Labrador</nombre><abreviatura>NL</abreviatura><iso_3166_2>CA-NL</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Nova Scotia</nombre><abreviatura>NS</abreviatura><iso_3166_2>CA-NS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Northwest Territories</nombre><abreviatura>NT</abreviatura><iso_3166_2>CA-NT</iso_3166_2><tipo>Territory</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Nunavut</nombre><abreviatura>NU</abreviatura><iso_3166_2>CA-NU</iso_3166_2><tipo>Territory</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Ontario</nombre><abreviatura>ON</abreviatura><iso_3166_2>CA-ON</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Prince Edward Island</nombre><abreviatura>PE</abreviatura><iso_3166_2>CA-PE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Quebec</nombre><abreviatura>QC</abreviatura><iso_3166_2>CA-QC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Saskatchewan</nombre><abreviatura>SK</abreviatura><iso_3166_2>CA-SK</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>CA</iso2><pais>Canada</pais><nombre>Yukon</nombre><abreviatura>YT</abreviatura><iso_3166_2>CA-YT</iso_3166_2><tipo>Territory</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Brandenburg</nombre><abreviatura>BB</abreviatura><iso_3166_2>DE-BB</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Berlin</nombre><abreviatura>BE</abreviatura><iso_3166_2>DE-BE</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Baden-Württemberg</nombre><abreviatura>BW</abreviatura><iso_3166_2>DE-BW</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Bayern</nombre><abreviatura>BY</abreviatura><iso_3166_2>DE-BY</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Bremen</nombre><abreviatura>HB</abreviatura><iso_3166_2>DE-HB</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Hessen</nombre><abreviatura>HE</abreviatura><iso_3166_2>DE-HE</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Hamburg</nombre><abreviatura>HH</abreviatura><iso_3166_2>DE-HH</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Mecklenburg-Vorpommern</nombre><abreviatura>MV</abreviatura><iso_3166_2>DE-MV</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Niedersachsen</nombre><abreviatura>NI</abreviatura><iso_3166_2>DE-NI</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Nordrhein-Westfalen</nombre><abreviatura>NW</abreviatura><iso_3166_2>DE-NW</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Rheinland-Pfalz</nombre><abreviatura>RP</abreviatura><iso_3166_2>DE-RP</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Schleswig-Holstein</nombre><abreviatura>SH</abreviatura><iso_3166_2>DE-SH</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Saarland</nombre><abreviatura>SL</abreviatura><iso_3166_2>DE-SL</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Sachsen</nombre><abreviatura>SN</abreviatura><iso_3166_2>DE-SN</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Sachsen-Anhalt</nombre><abreviatura>ST</abreviatura><iso_3166_2>DE-ST</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>DE</iso2><pais>Germany</pais><nombre>Thüringen</nombre><abreviatura>TH</abreviatura><iso_3166_2>DE-TH</iso_3166_2><tipo>Land</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Landskapet Åland</nombre><abreviatura>01</abreviatura><iso_3166_2>FI-01</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Etelä-Karjala</nombre><abreviatura>02</abreviatura><iso_3166_2>FI-02</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Etelä-Pohjanmaa</nombre><abreviatura>03</abreviatura><iso_3166_2>FI-03</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Etelä-Savo</nombre><abreviatura>04</abreviatura><iso_3166_2>FI-04</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Kainuu</nombre><abreviatura>05</abreviatura><iso_3166_2>FI-05</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Kanta-Häme</nombre><abreviatura>06</abreviatura><iso_3166_2>FI-06</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Keski-Pohjanmaa</nombre><abreviatura>07</abreviatura><iso_3166_2>FI-07</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Keski-Suomi</nombre><abreviatura>08</abreviatura><iso_3166_2>FI-08</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Kymenlaakso</nombre><abreviatura>09</abreviatura><iso_3166_2>FI-09</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Lappi</nombre><abreviatura>10</abreviatura><iso_3166_2>FI-10</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Pirkanmaa</nombre><abreviatura>11</abreviatura><iso_3166_2>FI-11</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Pohjanmaa</nombre><abreviatura>12</abreviatura><iso_3166_2>FI-12</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Pohjois-Karjala</nombre><abreviatura>13</abreviatura><iso_3166_2>FI-13</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Pohjois-Pohjanmaa</nombre><abreviatura>14</abreviatura><iso_3166_2>FI-14</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Pohjois-Savo</nombre><abreviatura>15</abreviatura><iso_3166_2>FI-15</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Päijät-Häme</nombre><abreviatura>16</abreviatura><iso_3166_2>FI-16</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Satakunta</nombre><abreviatura>17</abreviatura><iso_3166_2>FI-17</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Uusimaa</nombre><abreviatura>18</abreviatura><iso_3166_2>FI-18</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FI</iso2><pais>Finland</pais><nombre>Varsinais-Suomi</nombre><abreviatura>19</abreviatura><iso_3166_2>FI-19</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Ain</nombre><abreviatura>01</abreviatura><iso_3166_2>FR-01</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Aisne</nombre><abreviatura>02</abreviatura><iso_3166_2>FR-02</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Allier</nombre><abreviatura>03</abreviatura><iso_3166_2>FR-03</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Alpes-de-Haute-Provence</nombre><abreviatura>04</abreviatura><iso_3166_2>FR-04</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Hautes-Alpes</nombre><abreviatura>05</abreviatura><iso_3166_2>FR-05</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Alpes-Maritimes</nombre><abreviatura>06</abreviatura><iso_3166_2>FR-06</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Ardèche</nombre><abreviatura>07</abreviatura><iso_3166_2>FR-07</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Ardennes</nombre><abreviatura>08</abreviatura><iso_3166_2>FR-08</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Ariège</nombre><abreviatura>09</abreviatura><iso_3166_2>FR-09</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Aube</nombre><abreviatura>10</abreviatura><iso_3166_2>FR-10</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Aude</nombre><abreviatura>11</abreviatura><iso_3166_2>FR-11</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Aveyron</nombre><abreviatura>12</abreviatura><iso_3166_2>FR-12</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Bouches-du-Rhône</nombre><abreviatura>13</abreviatura><iso_3166_2>FR-13</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Calvados</nombre><abreviatura>14</abreviatura><iso_3166_2>FR-14</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Cantal</nombre><abreviatura>15</abreviatura><iso_3166_2>FR-15</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Charente</nombre><abreviatura>16</abreviatura><iso_3166_2>FR-16</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Charente-Maritime</nombre><abreviatura>17</abreviatura><iso_3166_2>FR-17</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Cher</nombre><abreviatura>18</abreviatura><iso_3166_2>FR-18</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Corrèze</nombre><abreviatura>19</abreviatura><iso_3166_2>FR-19</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Corse</nombre><abreviatura>20R</abreviatura><iso_3166_2>FR-20R</iso_3166_2><tipo>Metropolitan collectivity with special status</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Côte-d'Or</nombre><abreviatura>21</abreviatura><iso_3166_2>FR-21</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Côtes-d'Armor</nombre><abreviatura>22</abreviatura><iso_3166_2>FR-22</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Creuse</nombre><abreviatura>23</abreviatura><iso_3166_2>FR-23</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Dordogne</nombre><abreviatura>24</abreviatura><iso_3166_2>FR-24</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Doubs</nombre><abreviatura>25</abreviatura><iso_3166_2>FR-25</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Drôme</nombre><abreviatura>26</abreviatura><iso_3166_2>FR-26</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Eure</nombre><abreviatura>27</abreviatura><iso_3166_2>FR-27</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Eure-et-Loir</nombre><abreviatura>28</abreviatura><iso_3166_2>FR-28</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Finistère</nombre><abreviatura>29</abreviatura><iso_3166_2>FR-29</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Corse-du-Sud</nombre><abreviatura>2A</abreviatura><iso_3166_2>FR-2A</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Corse</nombre><abreviatura>2B</abreviatura><iso_3166_2>FR-2B</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Gard</nombre><abreviatura>30</abreviatura><iso_3166_2>FR-30</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Garonne</nombre><abreviatura>31</abreviatura><iso_3166_2>FR-31</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Gers</nombre><abreviatura>32</abreviatura><iso_3166_2>FR-32</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Gironde</nombre><abreviatura>33</abreviatura><iso_3166_2>FR-33</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Hérault</nombre><abreviatura>34</abreviatura><iso_3166_2>FR-34</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Ille-et-Vilaine</nombre><abreviatura>35</abreviatura><iso_3166_2>FR-35</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Indre</nombre><abreviatura>36</abreviatura><iso_3166_2>FR-36</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Indre-et-Loire</nombre><abreviatura>37</abreviatura><iso_3166_2>FR-37</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Isère</nombre><abreviatura>38</abreviatura><iso_3166_2>FR-38</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Jura</nombre><abreviatura>39</abreviatura><iso_3166_2>FR-39</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Landes</nombre><abreviatura>40</abreviatura><iso_3166_2>FR-40</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Loir-et-Cher</nombre><abreviatura>41</abreviatura><iso_3166_2>FR-41</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Loire</nombre><abreviatura>42</abreviatura><iso_3166_2>FR-42</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Loire</nombre><abreviatura>43</abreviatura><iso_3166_2>FR-43</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Loire-Atlantique</nombre><abreviatura>44</abreviatura><iso_3166_2>FR-44</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Loiret</nombre><abreviatura>45</abreviatura><iso_3166_2>FR-45</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Lot</nombre><abreviatura>46</abreviatura><iso_3166_2>FR-46</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Lot-et-Garonne</nombre><abreviatura>47</abreviatura><iso_3166_2>FR-47</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Lozère</nombre><abreviatura>48</abreviatura><iso_3166_2>FR-48</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Maine-et-Loire</nombre><abreviatura>49</abreviatura><iso_3166_2>FR-49</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Manche</nombre><abreviatura>50</abreviatura><iso_3166_2>FR-50</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Marne</nombre><abreviatura>51</abreviatura><iso_3166_2>FR-51</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Marne</nombre><abreviatura>52</abreviatura><iso_3166_2>FR-52</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Mayenne</nombre><abreviatura>53</abreviatura><iso_3166_2>FR-53</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Meurthe-et-Moselle</nombre><abreviatura>54</abreviatura><iso_3166_2>FR-54</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Meuse</nombre><abreviatura>55</abreviatura><iso_3166_2>FR-55</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Morbihan</nombre><abreviatura>56</abreviatura><iso_3166_2>FR-56</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Moselle</nombre><abreviatura>57</abreviatura><iso_3166_2>FR-57</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Nièvre</nombre><abreviatura>58</abreviatura><iso_3166_2>FR-58</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Nord</nombre><abreviatura>59</abreviatura><iso_3166_2>FR-59</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Oise</nombre><abreviatura>60</abreviatura><iso_3166_2>FR-60</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Orne</nombre><abreviatura>61</abreviatura><iso_3166_2>FR-61</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Pas-de-Calais</nombre><abreviatura>62</abreviatura><iso_3166_2>FR-62</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Puy-de-Dôme</nombre><abreviatura>63</abreviatura><iso_3166_2>FR-63</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Pyrénées-Atlantiques</nombre><abreviatura>64</abreviatura><iso_3166_2>FR-64</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Hautes-Pyrénées</nombre><abreviatura>65</abreviatura><iso_3166_2>FR-65</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Pyrénées-Orientales</nombre><abreviatura>66</abreviatura><iso_3166_2>FR-66</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Bas-Rhin</nombre><abreviatura>67</abreviatura><iso_3166_2>FR-67</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haut-Rhin</nombre><abreviatura>68</abreviatura><iso_3166_2>FR-68</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Rhône</nombre><abreviatura>69</abreviatura><iso_3166_2>FR-69</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Métropole de Lyon</nombre><abreviatura>69M</abreviatura><iso_3166_2>FR-69M</iso_3166_2><tipo>Metropolitan collectivity with special status</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Alsace</nombre><abreviatura>6AE</abreviatura><iso_3166_2>FR-6AE</iso_3166_2><tipo>European collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Saône</nombre><abreviatura>70</abreviatura><iso_3166_2>FR-70</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Saône-et-Loire</nombre><abreviatura>71</abreviatura><iso_3166_2>FR-71</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Sarthe</nombre><abreviatura>72</abreviatura><iso_3166_2>FR-72</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Savoie</nombre><abreviatura>73</abreviatura><iso_3166_2>FR-73</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Savoie</nombre><abreviatura>74</abreviatura><iso_3166_2>FR-74</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Paris</nombre><abreviatura>75C</abreviatura><iso_3166_2>FR-75C</iso_3166_2><tipo>Metropolitan collectivity with special status</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Seine-Maritime</nombre><abreviatura>76</abreviatura><iso_3166_2>FR-76</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Seine-et-Marne</nombre><abreviatura>77</abreviatura><iso_3166_2>FR-77</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Yvelines</nombre><abreviatura>78</abreviatura><iso_3166_2>FR-78</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Deux-Sèvres</nombre><abreviatura>79</abreviatura><iso_3166_2>FR-79</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Somme</nombre><abreviatura>80</abreviatura><iso_3166_2>FR-80</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Tarn</nombre><abreviatura>81</abreviatura><iso_3166_2>FR-81</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Tarn-et-Garonne</nombre><abreviatura>82</abreviatura><iso_3166_2>FR-82</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Var</nombre><abreviatura>83</abreviatura><iso_3166_2>FR-83</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Vaucluse</nombre><abreviatura>84</abreviatura><iso_3166_2>FR-84</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Vendée</nombre><abreviatura>85</abreviatura><iso_3166_2>FR-85</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Vienne</nombre><abreviatura>86</abreviatura><iso_3166_2>FR-86</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Haute-Vienne</nombre><abreviatura>87</abreviatura><iso_3166_2>FR-87</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Vosges</nombre><abreviatura>88</abreviatura><iso_3166_2>FR-88</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Yonne</nombre><abreviatura>89</abreviatura><iso_3166_2>FR-89</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Territoire de Belfort</nombre><abreviatura>90</abreviatura><iso_3166_2>FR-90</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Essonne</nombre><abreviatura>91</abreviatura><iso_3166_2>FR-91</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Hauts-de-Seine</nombre><abreviatura>92</abreviatura><iso_3166_2>FR-92</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Seine-Saint-Denis</nombre><abreviatura>93</abreviatura><iso_3166_2>FR-93</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Val-de-Marne</nombre><abreviatura>94</abreviatura><iso_3166_2>FR-94</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Val-d'Oise</nombre><abreviatura>95</abreviatura><iso_3166_2>FR-95</iso_3166_2><tipo>Metropolitan department</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Guadeloupe</nombre><abreviatura>971</abreviatura><iso_3166_2>FR-971</iso_3166_2><tipo>Overseas departmental collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Martinique</nombre><abreviatura>972</abreviatura><iso_3166_2>FR-972</iso_3166_2><tipo>Overseas unique territorial collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Guyane (française)</nombre><abreviatura>973</abreviatura><iso_3166_2>FR-973</iso_3166_2><tipo>Overseas unique territorial collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>La Réunion</nombre><abreviatura>974</abreviatura><iso_3166_2>FR-974</iso_3166_2><tipo>Overseas departmental collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Mayotte</nombre><abreviatura>976</abreviatura><iso_3166_2>FR-976</iso_3166_2><tipo>Overseas departmental collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Auvergne-Rhône-Alpes</nombre><abreviatura>ARA</abreviatura><iso_3166_2>FR-ARA</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Bourgogne-Franche-Comté</nombre><abreviatura>BFC</abreviatura><iso_3166_2>FR-BFC</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Saint-Barthélemy</nombre><abreviatura>BL</abreviatura><iso_3166_2>FR-BL</iso_3166_2><tipo>Overseas collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Bretagne</nombre><abreviatura>BRE</abreviatura><iso_3166_2>FR-BRE</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Clipperton</nombre><abreviatura>CP</abreviatura><iso_3166_2>FR-CP</iso_3166_2><tipo>Dependency</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Centre-Val de Loire</nombre><abreviatura>CVL</abreviatura><iso_3166_2>FR-CVL</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Grand-Est</nombre><abreviatura>GES</abreviatura><iso_3166_2>FR-GES</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Hauts-de-France</nombre><abreviatura>HDF</abreviatura><iso_3166_2>FR-HDF</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Île-de-France</nombre><abreviatura>IDF</abreviatura><iso_3166_2>FR-IDF</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Saint-Martin</nombre><abreviatura>MF</abreviatura><iso_3166_2>FR-MF</iso_3166_2><tipo>Overseas collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Nouvelle-Aquitaine</nombre><abreviatura>NAQ</abreviatura><iso_3166_2>FR-NAQ</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Nouvelle-Calédonie</nombre><abreviatura>NC</abreviatura><iso_3166_2>FR-NC</iso_3166_2><tipo>Overseas collectivity with special status</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Normandie</nombre><abreviatura>NOR</abreviatura><iso_3166_2>FR-NOR</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Occitanie</nombre><abreviatura>OCC</abreviatura><iso_3166_2>FR-OCC</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Provence-Alpes-Côte-d’Azur</nombre><abreviatura>PAC</abreviatura><iso_3166_2>FR-PAC</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Pays-de-la-Loire</nombre><abreviatura>PDL</abreviatura><iso_3166_2>FR-PDL</iso_3166_2><tipo>Metropolitan region</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Polynésie française</nombre><abreviatura>PF</abreviatura><iso_3166_2>FR-PF</iso_3166_2><tipo>Overseas collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Saint-Pierre-et-Miquelon</nombre><abreviatura>PM</abreviatura><iso_3166_2>FR-PM</iso_3166_2><tipo>Overseas collectivity</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Terres australes françaises</nombre><abreviatura>TF</abreviatura><iso_3166_2>FR-TF</iso_3166_2><tipo>Overseas territory</tipo></subdivision>
+  <subdivision><iso2>FR</iso2><pais>France</pais><nombre>Wallis-et-Futuna</nombre><abreviatura>WF</abreviatura><iso_3166_2>FR-WF</iso_3166_2><tipo>Overseas collectivity</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Armagh City, Banbridge and Craigavon</nombre><abreviatura>ABC</abreviatura><iso_3166_2>GB-ABC</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Aberdeenshire</nombre><abreviatura>ABD</abreviatura><iso_3166_2>GB-ABD</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Aberdeen City</nombre><abreviatura>ABE</abreviatura><iso_3166_2>GB-ABE</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Argyll and Bute</nombre><abreviatura>AGB</abreviatura><iso_3166_2>GB-AGB</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Isle of Anglesey [Sir Ynys Môn GB-YNM]</nombre><abreviatura>AGY</abreviatura><iso_3166_2>GB-AGY</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Ards and North Down</nombre><abreviatura>AND</abreviatura><iso_3166_2>GB-AND</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Antrim and Newtownabbey</nombre><abreviatura>ANN</abreviatura><iso_3166_2>GB-ANN</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Angus</nombre><abreviatura>ANS</abreviatura><iso_3166_2>GB-ANS</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bath and North East Somerset</nombre><abreviatura>BAS</abreviatura><iso_3166_2>GB-BAS</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Blackburn with Darwen</nombre><abreviatura>BBD</abreviatura><iso_3166_2>GB-BBD</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bournemouth, Christchurch and Poole</nombre><abreviatura>BCP</abreviatura><iso_3166_2>GB-BCP</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bedford</nombre><abreviatura>BDF</abreviatura><iso_3166_2>GB-BDF</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Barking and Dagenham</nombre><abreviatura>BDG</abreviatura><iso_3166_2>GB-BDG</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Brent</nombre><abreviatura>BEN</abreviatura><iso_3166_2>GB-BEN</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bexley</nombre><abreviatura>BEX</abreviatura><iso_3166_2>GB-BEX</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Belfast City</nombre><abreviatura>BFS</abreviatura><iso_3166_2>GB-BFS</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bridgend [Pen-y-bont ar Ogwr GB-POG]</nombre><abreviatura>BGE</abreviatura><iso_3166_2>GB-BGE</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Blaenau Gwent</nombre><abreviatura>BGW</abreviatura><iso_3166_2>GB-BGW</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Birmingham</nombre><abreviatura>BIR</abreviatura><iso_3166_2>GB-BIR</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Buckinghamshire</nombre><abreviatura>BKM</abreviatura><iso_3166_2>GB-BKM</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Barnet</nombre><abreviatura>BNE</abreviatura><iso_3166_2>GB-BNE</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Brighton and Hove</nombre><abreviatura>BNH</abreviatura><iso_3166_2>GB-BNH</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Barnsley</nombre><abreviatura>BNS</abreviatura><iso_3166_2>GB-BNS</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bolton</nombre><abreviatura>BOL</abreviatura><iso_3166_2>GB-BOL</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Blackpool</nombre><abreviatura>BPL</abreviatura><iso_3166_2>GB-BPL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bracknell Forest</nombre><abreviatura>BRC</abreviatura><iso_3166_2>GB-BRC</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bradford</nombre><abreviatura>BRD</abreviatura><iso_3166_2>GB-BRD</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bromley</nombre><abreviatura>BRY</abreviatura><iso_3166_2>GB-BRY</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bristol, City of</nombre><abreviatura>BST</abreviatura><iso_3166_2>GB-BST</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Bury</nombre><abreviatura>BUR</abreviatura><iso_3166_2>GB-BUR</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Cambridgeshire</nombre><abreviatura>CAM</abreviatura><iso_3166_2>GB-CAM</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Caerphilly [Caerffili GB-CAF]</nombre><abreviatura>CAY</abreviatura><iso_3166_2>GB-CAY</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Central Bedfordshire</nombre><abreviatura>CBF</abreviatura><iso_3166_2>GB-CBF</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Causeway Coast and Glens</nombre><abreviatura>CCG</abreviatura><iso_3166_2>GB-CCG</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Ceredigion [Sir Ceredigion]</nombre><abreviatura>CGN</abreviatura><iso_3166_2>GB-CGN</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Cheshire East</nombre><abreviatura>CHE</abreviatura><iso_3166_2>GB-CHE</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Cheshire West and Chester</nombre><abreviatura>CHW</abreviatura><iso_3166_2>GB-CHW</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Calderdale</nombre><abreviatura>CLD</abreviatura><iso_3166_2>GB-CLD</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Clackmannanshire</nombre><abreviatura>CLK</abreviatura><iso_3166_2>GB-CLK</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Cumbria</nombre><abreviatura>CMA</abreviatura><iso_3166_2>GB-CMA</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Camden</nombre><abreviatura>CMD</abreviatura><iso_3166_2>GB-CMD</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Carmarthenshire [Sir Gaerfyrddin GB-GFY]</nombre><abreviatura>CMN</abreviatura><iso_3166_2>GB-CMN</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Cornwall</nombre><abreviatura>CON</abreviatura><iso_3166_2>GB-CON</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Coventry</nombre><abreviatura>COV</abreviatura><iso_3166_2>GB-COV</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Cardiff [Caerdydd GB-CRD]</nombre><abreviatura>CRF</abreviatura><iso_3166_2>GB-CRF</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Croydon</nombre><abreviatura>CRY</abreviatura><iso_3166_2>GB-CRY</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Conwy</nombre><abreviatura>CWY</abreviatura><iso_3166_2>GB-CWY</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Darlington</nombre><abreviatura>DAL</abreviatura><iso_3166_2>GB-DAL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Derbyshire</nombre><abreviatura>DBY</abreviatura><iso_3166_2>GB-DBY</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Denbighshire [Sir Ddinbych GB-DDB]</nombre><abreviatura>DEN</abreviatura><iso_3166_2>GB-DEN</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Derby</nombre><abreviatura>DER</abreviatura><iso_3166_2>GB-DER</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Devon</nombre><abreviatura>DEV</abreviatura><iso_3166_2>GB-DEV</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Dumfries and Galloway</nombre><abreviatura>DGY</abreviatura><iso_3166_2>GB-DGY</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Doncaster</nombre><abreviatura>DNC</abreviatura><iso_3166_2>GB-DNC</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Dundee City</nombre><abreviatura>DND</abreviatura><iso_3166_2>GB-DND</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Dorset</nombre><abreviatura>DOR</abreviatura><iso_3166_2>GB-DOR</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Derry and Strabane</nombre><abreviatura>DRS</abreviatura><iso_3166_2>GB-DRS</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Dudley</nombre><abreviatura>DUD</abreviatura><iso_3166_2>GB-DUD</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Durham, County</nombre><abreviatura>DUR</abreviatura><iso_3166_2>GB-DUR</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Ealing</nombre><abreviatura>EAL</abreviatura><iso_3166_2>GB-EAL</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>East Ayrshire</nombre><abreviatura>EAY</abreviatura><iso_3166_2>GB-EAY</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Edinburgh, City of</nombre><abreviatura>EDH</abreviatura><iso_3166_2>GB-EDH</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>East Dunbartonshire</nombre><abreviatura>EDU</abreviatura><iso_3166_2>GB-EDU</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>East Lothian</nombre><abreviatura>ELN</abreviatura><iso_3166_2>GB-ELN</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Eilean Siar</nombre><abreviatura>ELS</abreviatura><iso_3166_2>GB-ELS</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Enfield</nombre><abreviatura>ENF</abreviatura><iso_3166_2>GB-ENF</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>England</nombre><abreviatura>ENG</abreviatura><iso_3166_2>GB-ENG</iso_3166_2><tipo>Country</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>East Renfrewshire</nombre><abreviatura>ERW</abreviatura><iso_3166_2>GB-ERW</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>East Riding of Yorkshire</nombre><abreviatura>ERY</abreviatura><iso_3166_2>GB-ERY</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Essex</nombre><abreviatura>ESS</abreviatura><iso_3166_2>GB-ESS</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>East Sussex</nombre><abreviatura>ESX</abreviatura><iso_3166_2>GB-ESX</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Falkirk</nombre><abreviatura>FAL</abreviatura><iso_3166_2>GB-FAL</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Fife</nombre><abreviatura>FIF</abreviatura><iso_3166_2>GB-FIF</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Flintshire [Sir y Fflint GB-FFL]</nombre><abreviatura>FLN</abreviatura><iso_3166_2>GB-FLN</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Fermanagh and Omagh</nombre><abreviatura>FMO</abreviatura><iso_3166_2>GB-FMO</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Gateshead</nombre><abreviatura>GAT</abreviatura><iso_3166_2>GB-GAT</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Glasgow City</nombre><abreviatura>GLG</abreviatura><iso_3166_2>GB-GLG</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Gloucestershire</nombre><abreviatura>GLS</abreviatura><iso_3166_2>GB-GLS</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Greenwich</nombre><abreviatura>GRE</abreviatura><iso_3166_2>GB-GRE</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Gwynedd</nombre><abreviatura>GWN</abreviatura><iso_3166_2>GB-GWN</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Halton</nombre><abreviatura>HAL</abreviatura><iso_3166_2>GB-HAL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hampshire</nombre><abreviatura>HAM</abreviatura><iso_3166_2>GB-HAM</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Havering</nombre><abreviatura>HAV</abreviatura><iso_3166_2>GB-HAV</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hackney</nombre><abreviatura>HCK</abreviatura><iso_3166_2>GB-HCK</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Herefordshire</nombre><abreviatura>HEF</abreviatura><iso_3166_2>GB-HEF</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hillingdon</nombre><abreviatura>HIL</abreviatura><iso_3166_2>GB-HIL</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Highland</nombre><abreviatura>HLD</abreviatura><iso_3166_2>GB-HLD</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hammersmith and Fulham</nombre><abreviatura>HMF</abreviatura><iso_3166_2>GB-HMF</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hounslow</nombre><abreviatura>HNS</abreviatura><iso_3166_2>GB-HNS</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hartlepool</nombre><abreviatura>HPL</abreviatura><iso_3166_2>GB-HPL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Hertfordshire</nombre><abreviatura>HRT</abreviatura><iso_3166_2>GB-HRT</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Harrow</nombre><abreviatura>HRW</abreviatura><iso_3166_2>GB-HRW</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Haringey</nombre><abreviatura>HRY</abreviatura><iso_3166_2>GB-HRY</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Isles of Scilly</nombre><abreviatura>IOS</abreviatura><iso_3166_2>GB-IOS</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Isle of Wight</nombre><abreviatura>IOW</abreviatura><iso_3166_2>GB-IOW</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Islington</nombre><abreviatura>ISL</abreviatura><iso_3166_2>GB-ISL</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Inverclyde</nombre><abreviatura>IVC</abreviatura><iso_3166_2>GB-IVC</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Kensington and Chelsea</nombre><abreviatura>KEC</abreviatura><iso_3166_2>GB-KEC</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Kent</nombre><abreviatura>KEN</abreviatura><iso_3166_2>GB-KEN</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Kingston upon Hull</nombre><abreviatura>KHL</abreviatura><iso_3166_2>GB-KHL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Kirklees</nombre><abreviatura>KIR</abreviatura><iso_3166_2>GB-KIR</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Kingston upon Thames</nombre><abreviatura>KTT</abreviatura><iso_3166_2>GB-KTT</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Knowsley</nombre><abreviatura>KWL</abreviatura><iso_3166_2>GB-KWL</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Lancashire</nombre><abreviatura>LAN</abreviatura><iso_3166_2>GB-LAN</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Lisburn and Castlereagh</nombre><abreviatura>LBC</abreviatura><iso_3166_2>GB-LBC</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Lambeth</nombre><abreviatura>LBH</abreviatura><iso_3166_2>GB-LBH</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Leicester</nombre><abreviatura>LCE</abreviatura><iso_3166_2>GB-LCE</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Leeds</nombre><abreviatura>LDS</abreviatura><iso_3166_2>GB-LDS</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Leicestershire</nombre><abreviatura>LEC</abreviatura><iso_3166_2>GB-LEC</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Lewisham</nombre><abreviatura>LEW</abreviatura><iso_3166_2>GB-LEW</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Lincolnshire</nombre><abreviatura>LIN</abreviatura><iso_3166_2>GB-LIN</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Liverpool</nombre><abreviatura>LIV</abreviatura><iso_3166_2>GB-LIV</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>London, City of</nombre><abreviatura>LND</abreviatura><iso_3166_2>GB-LND</iso_3166_2><tipo>City corporation</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Luton</nombre><abreviatura>LUT</abreviatura><iso_3166_2>GB-LUT</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Manchester</nombre><abreviatura>MAN</abreviatura><iso_3166_2>GB-MAN</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Middlesbrough</nombre><abreviatura>MDB</abreviatura><iso_3166_2>GB-MDB</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Medway</nombre><abreviatura>MDW</abreviatura><iso_3166_2>GB-MDW</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Mid and East Antrim</nombre><abreviatura>MEA</abreviatura><iso_3166_2>GB-MEA</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Milton Keynes</nombre><abreviatura>MIK</abreviatura><iso_3166_2>GB-MIK</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Midlothian</nombre><abreviatura>MLN</abreviatura><iso_3166_2>GB-MLN</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Monmouthshire [Sir Fynwy GB-FYN]</nombre><abreviatura>MON</abreviatura><iso_3166_2>GB-MON</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Merton</nombre><abreviatura>MRT</abreviatura><iso_3166_2>GB-MRT</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Moray</nombre><abreviatura>MRY</abreviatura><iso_3166_2>GB-MRY</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Merthyr Tydfil [Merthyr Tudful GB-MTU]</nombre><abreviatura>MTY</abreviatura><iso_3166_2>GB-MTY</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Mid-Ulster</nombre><abreviatura>MUL</abreviatura><iso_3166_2>GB-MUL</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Ayrshire</nombre><abreviatura>NAY</abreviatura><iso_3166_2>GB-NAY</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Northumberland</nombre><abreviatura>NBL</abreviatura><iso_3166_2>GB-NBL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North East Lincolnshire</nombre><abreviatura>NEL</abreviatura><iso_3166_2>GB-NEL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Newcastle upon Tyne</nombre><abreviatura>NET</abreviatura><iso_3166_2>GB-NET</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Norfolk</nombre><abreviatura>NFK</abreviatura><iso_3166_2>GB-NFK</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Nottingham</nombre><abreviatura>NGM</abreviatura><iso_3166_2>GB-NGM</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Northern Ireland</nombre><abreviatura>NIR</abreviatura><iso_3166_2>GB-NIR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Lanarkshire</nombre><abreviatura>NLK</abreviatura><iso_3166_2>GB-NLK</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Lincolnshire</nombre><abreviatura>NLN</abreviatura><iso_3166_2>GB-NLN</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Newry, Mourne and Down</nombre><abreviatura>NMD</abreviatura><iso_3166_2>GB-NMD</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Northamptonshire</nombre><abreviatura>NNH</abreviatura><iso_3166_2>GB-NNH</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Somerset</nombre><abreviatura>NSM</abreviatura><iso_3166_2>GB-NSM</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]</nombre><abreviatura>NTL</abreviatura><iso_3166_2>GB-NTL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Nottinghamshire</nombre><abreviatura>NTT</abreviatura><iso_3166_2>GB-NTT</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Tyneside</nombre><abreviatura>NTY</abreviatura><iso_3166_2>GB-NTY</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Newham</nombre><abreviatura>NWM</abreviatura><iso_3166_2>GB-NWM</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Newport [Casnewydd GB-CNW]</nombre><abreviatura>NWP</abreviatura><iso_3166_2>GB-NWP</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>North Yorkshire</nombre><abreviatura>NYK</abreviatura><iso_3166_2>GB-NYK</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Oldham</nombre><abreviatura>OLD</abreviatura><iso_3166_2>GB-OLD</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Orkney Islands</nombre><abreviatura>ORK</abreviatura><iso_3166_2>GB-ORK</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Oxfordshire</nombre><abreviatura>OXF</abreviatura><iso_3166_2>GB-OXF</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Pembrokeshire [Sir Benfro GB-BNF]</nombre><abreviatura>PEM</abreviatura><iso_3166_2>GB-PEM</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Perth and Kinross</nombre><abreviatura>PKN</abreviatura><iso_3166_2>GB-PKN</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Plymouth</nombre><abreviatura>PLY</abreviatura><iso_3166_2>GB-PLY</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Portsmouth</nombre><abreviatura>POR</abreviatura><iso_3166_2>GB-POR</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Powys</nombre><abreviatura>POW</abreviatura><iso_3166_2>GB-POW</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Peterborough</nombre><abreviatura>PTE</abreviatura><iso_3166_2>GB-PTE</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Redcar and Cleveland</nombre><abreviatura>RCC</abreviatura><iso_3166_2>GB-RCC</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Rochdale</nombre><abreviatura>RCH</abreviatura><iso_3166_2>GB-RCH</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Rhondda Cynon Taff [Rhondda CynonTaf]</nombre><abreviatura>RCT</abreviatura><iso_3166_2>GB-RCT</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Redbridge</nombre><abreviatura>RDB</abreviatura><iso_3166_2>GB-RDB</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Reading</nombre><abreviatura>RDG</abreviatura><iso_3166_2>GB-RDG</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Renfrewshire</nombre><abreviatura>RFW</abreviatura><iso_3166_2>GB-RFW</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Richmond upon Thames</nombre><abreviatura>RIC</abreviatura><iso_3166_2>GB-RIC</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Rotherham</nombre><abreviatura>ROT</abreviatura><iso_3166_2>GB-ROT</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Rutland</nombre><abreviatura>RUT</abreviatura><iso_3166_2>GB-RUT</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Sandwell</nombre><abreviatura>SAW</abreviatura><iso_3166_2>GB-SAW</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>South Ayrshire</nombre><abreviatura>SAY</abreviatura><iso_3166_2>GB-SAY</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Scottish Borders</nombre><abreviatura>SCB</abreviatura><iso_3166_2>GB-SCB</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Scotland</nombre><abreviatura>SCT</abreviatura><iso_3166_2>GB-SCT</iso_3166_2><tipo>Country</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Suffolk</nombre><abreviatura>SFK</abreviatura><iso_3166_2>GB-SFK</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Sefton</nombre><abreviatura>SFT</abreviatura><iso_3166_2>GB-SFT</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>South Gloucestershire</nombre><abreviatura>SGC</abreviatura><iso_3166_2>GB-SGC</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Sheffield</nombre><abreviatura>SHF</abreviatura><iso_3166_2>GB-SHF</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>St. Helens</nombre><abreviatura>SHN</abreviatura><iso_3166_2>GB-SHN</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Shropshire</nombre><abreviatura>SHR</abreviatura><iso_3166_2>GB-SHR</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Stockport</nombre><abreviatura>SKP</abreviatura><iso_3166_2>GB-SKP</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Salford</nombre><abreviatura>SLF</abreviatura><iso_3166_2>GB-SLF</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Slough</nombre><abreviatura>SLG</abreviatura><iso_3166_2>GB-SLG</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>South Lanarkshire</nombre><abreviatura>SLK</abreviatura><iso_3166_2>GB-SLK</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Sunderland</nombre><abreviatura>SND</abreviatura><iso_3166_2>GB-SND</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Solihull</nombre><abreviatura>SOL</abreviatura><iso_3166_2>GB-SOL</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Somerset</nombre><abreviatura>SOM</abreviatura><iso_3166_2>GB-SOM</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Southend-on-Sea</nombre><abreviatura>SOS</abreviatura><iso_3166_2>GB-SOS</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Surrey</nombre><abreviatura>SRY</abreviatura><iso_3166_2>GB-SRY</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Stoke-on-Trent</nombre><abreviatura>STE</abreviatura><iso_3166_2>GB-STE</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Stirling</nombre><abreviatura>STG</abreviatura><iso_3166_2>GB-STG</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Southampton</nombre><abreviatura>STH</abreviatura><iso_3166_2>GB-STH</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Sutton</nombre><abreviatura>STN</abreviatura><iso_3166_2>GB-STN</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Staffordshire</nombre><abreviatura>STS</abreviatura><iso_3166_2>GB-STS</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Stockton-on-Tees</nombre><abreviatura>STT</abreviatura><iso_3166_2>GB-STT</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>South Tyneside</nombre><abreviatura>STY</abreviatura><iso_3166_2>GB-STY</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Swansea [Abertawe GB-ATA]</nombre><abreviatura>SWA</abreviatura><iso_3166_2>GB-SWA</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Swindon</nombre><abreviatura>SWD</abreviatura><iso_3166_2>GB-SWD</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Southwark</nombre><abreviatura>SWK</abreviatura><iso_3166_2>GB-SWK</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Tameside</nombre><abreviatura>TAM</abreviatura><iso_3166_2>GB-TAM</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Telford and Wrekin</nombre><abreviatura>TFW</abreviatura><iso_3166_2>GB-TFW</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Thurrock</nombre><abreviatura>THR</abreviatura><iso_3166_2>GB-THR</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Torbay</nombre><abreviatura>TOB</abreviatura><iso_3166_2>GB-TOB</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Torfaen [Tor-faen]</nombre><abreviatura>TOF</abreviatura><iso_3166_2>GB-TOF</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Trafford</nombre><abreviatura>TRF</abreviatura><iso_3166_2>GB-TRF</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Tower Hamlets</nombre><abreviatura>TWH</abreviatura><iso_3166_2>GB-TWH</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Vale of Glamorgan, The [Bro Morgannwg GB-BMG]</nombre><abreviatura>VGL</abreviatura><iso_3166_2>GB-VGL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Warwickshire</nombre><abreviatura>WAR</abreviatura><iso_3166_2>GB-WAR</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>West Berkshire</nombre><abreviatura>WBK</abreviatura><iso_3166_2>GB-WBK</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>West Dunbartonshire</nombre><abreviatura>WDU</abreviatura><iso_3166_2>GB-WDU</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Waltham Forest</nombre><abreviatura>WFT</abreviatura><iso_3166_2>GB-WFT</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wigan</nombre><abreviatura>WGN</abreviatura><iso_3166_2>GB-WGN</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wiltshire</nombre><abreviatura>WIL</abreviatura><iso_3166_2>GB-WIL</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wakefield</nombre><abreviatura>WKF</abreviatura><iso_3166_2>GB-WKF</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Walsall</nombre><abreviatura>WLL</abreviatura><iso_3166_2>GB-WLL</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>West Lothian</nombre><abreviatura>WLN</abreviatura><iso_3166_2>GB-WLN</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wales [Cymru GB-CYM]</nombre><abreviatura>WLS</abreviatura><iso_3166_2>GB-WLS</iso_3166_2><tipo>Country</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wolverhampton</nombre><abreviatura>WLV</abreviatura><iso_3166_2>GB-WLV</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wandsworth</nombre><abreviatura>WND</abreviatura><iso_3166_2>GB-WND</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>West Northamptonshire</nombre><abreviatura>WNH</abreviatura><iso_3166_2>GB-WNH</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Windsor and Maidenhead</nombre><abreviatura>WNM</abreviatura><iso_3166_2>GB-WNM</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wokingham</nombre><abreviatura>WOK</abreviatura><iso_3166_2>GB-WOK</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Worcestershire</nombre><abreviatura>WOR</abreviatura><iso_3166_2>GB-WOR</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wirral</nombre><abreviatura>WRL</abreviatura><iso_3166_2>GB-WRL</iso_3166_2><tipo>Metropolitan district</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Warrington</nombre><abreviatura>WRT</abreviatura><iso_3166_2>GB-WRT</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Wrexham [Wrecsam GB-WRC]</nombre><abreviatura>WRX</abreviatura><iso_3166_2>GB-WRX</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Westminster</nombre><abreviatura>WSM</abreviatura><iso_3166_2>GB-WSM</iso_3166_2><tipo>London borough</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>West Sussex</nombre><abreviatura>WSX</abreviatura><iso_3166_2>GB-WSX</iso_3166_2><tipo>Two-tier county</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>York</nombre><abreviatura>YOR</abreviatura><iso_3166_2>GB-YOR</iso_3166_2><tipo>Unitary authority</tipo></subdivision>
+  <subdivision><iso2>GB</iso2><pais>United Kingdom</pais><nombre>Shetland Islands</nombre><abreviatura>ZET</abreviatura><iso_3166_2>GB-ZET</iso_3166_2><tipo>Council area</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Connaught</nombre><abreviatura>C</abreviatura><iso_3166_2>IE-C</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Clare</nombre><abreviatura>CE</abreviatura><iso_3166_2>IE-CE</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Cavan</nombre><abreviatura>CN</abreviatura><iso_3166_2>IE-CN</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Cork</nombre><abreviatura>CO</abreviatura><iso_3166_2>IE-CO</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Carlow</nombre><abreviatura>CW</abreviatura><iso_3166_2>IE-CW</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Dublin</nombre><abreviatura>D</abreviatura><iso_3166_2>IE-D</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Donegal</nombre><abreviatura>DL</abreviatura><iso_3166_2>IE-DL</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Galway</nombre><abreviatura>G</abreviatura><iso_3166_2>IE-G</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Kildare</nombre><abreviatura>KE</abreviatura><iso_3166_2>IE-KE</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Kilkenny</nombre><abreviatura>KK</abreviatura><iso_3166_2>IE-KK</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Kerry</nombre><abreviatura>KY</abreviatura><iso_3166_2>IE-KY</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Leinster</nombre><abreviatura>L</abreviatura><iso_3166_2>IE-L</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Longford</nombre><abreviatura>LD</abreviatura><iso_3166_2>IE-LD</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Louth</nombre><abreviatura>LH</abreviatura><iso_3166_2>IE-LH</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Limerick</nombre><abreviatura>LK</abreviatura><iso_3166_2>IE-LK</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Leitrim</nombre><abreviatura>LM</abreviatura><iso_3166_2>IE-LM</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Laois</nombre><abreviatura>LS</abreviatura><iso_3166_2>IE-LS</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Munster</nombre><abreviatura>M</abreviatura><iso_3166_2>IE-M</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Meath</nombre><abreviatura>MH</abreviatura><iso_3166_2>IE-MH</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Monaghan</nombre><abreviatura>MN</abreviatura><iso_3166_2>IE-MN</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Mayo</nombre><abreviatura>MO</abreviatura><iso_3166_2>IE-MO</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Offaly</nombre><abreviatura>OY</abreviatura><iso_3166_2>IE-OY</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Roscommon</nombre><abreviatura>RN</abreviatura><iso_3166_2>IE-RN</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Sligo</nombre><abreviatura>SO</abreviatura><iso_3166_2>IE-SO</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Tipperary</nombre><abreviatura>TA</abreviatura><iso_3166_2>IE-TA</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Ulster</nombre><abreviatura>U</abreviatura><iso_3166_2>IE-U</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Waterford</nombre><abreviatura>WD</abreviatura><iso_3166_2>IE-WD</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Westmeath</nombre><abreviatura>WH</abreviatura><iso_3166_2>IE-WH</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Wicklow</nombre><abreviatura>WW</abreviatura><iso_3166_2>IE-WW</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IE</iso2><pais>Ireland</pais><nombre>Wexford</nombre><abreviatura>WX</abreviatura><iso_3166_2>IE-WX</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Piemonte</nombre><abreviatura>21</abreviatura><iso_3166_2>IT-21</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Valle d'Aosta</nombre><abreviatura>23</abreviatura><iso_3166_2>IT-23</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Lombardia</nombre><abreviatura>25</abreviatura><iso_3166_2>IT-25</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Trentino-Alto Adige</nombre><abreviatura>32</abreviatura><iso_3166_2>IT-32</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Veneto</nombre><abreviatura>34</abreviatura><iso_3166_2>IT-34</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Friuli Venezia Giulia</nombre><abreviatura>36</abreviatura><iso_3166_2>IT-36</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Liguria</nombre><abreviatura>42</abreviatura><iso_3166_2>IT-42</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Emilia-Romagna</nombre><abreviatura>45</abreviatura><iso_3166_2>IT-45</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Toscana</nombre><abreviatura>52</abreviatura><iso_3166_2>IT-52</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Umbria</nombre><abreviatura>55</abreviatura><iso_3166_2>IT-55</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Marche</nombre><abreviatura>57</abreviatura><iso_3166_2>IT-57</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Lazio</nombre><abreviatura>62</abreviatura><iso_3166_2>IT-62</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Abruzzo</nombre><abreviatura>65</abreviatura><iso_3166_2>IT-65</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Molise</nombre><abreviatura>67</abreviatura><iso_3166_2>IT-67</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Campania</nombre><abreviatura>72</abreviatura><iso_3166_2>IT-72</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Puglia</nombre><abreviatura>75</abreviatura><iso_3166_2>IT-75</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Basilicata</nombre><abreviatura>77</abreviatura><iso_3166_2>IT-77</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Calabria</nombre><abreviatura>78</abreviatura><iso_3166_2>IT-78</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Sicilia</nombre><abreviatura>82</abreviatura><iso_3166_2>IT-82</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Sardegna</nombre><abreviatura>88</abreviatura><iso_3166_2>IT-88</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Agrigento</nombre><abreviatura>AG</abreviatura><iso_3166_2>IT-AG</iso_3166_2><tipo>Free municipal consortium</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Alessandria</nombre><abreviatura>AL</abreviatura><iso_3166_2>IT-AL</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Ancona</nombre><abreviatura>AN</abreviatura><iso_3166_2>IT-AN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Ascoli Piceno</nombre><abreviatura>AP</abreviatura><iso_3166_2>IT-AP</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>L'Aquila</nombre><abreviatura>AQ</abreviatura><iso_3166_2>IT-AQ</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Arezzo</nombre><abreviatura>AR</abreviatura><iso_3166_2>IT-AR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Asti</nombre><abreviatura>AT</abreviatura><iso_3166_2>IT-AT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Avellino</nombre><abreviatura>AV</abreviatura><iso_3166_2>IT-AV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Bari</nombre><abreviatura>BA</abreviatura><iso_3166_2>IT-BA</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Bergamo</nombre><abreviatura>BG</abreviatura><iso_3166_2>IT-BG</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Biella</nombre><abreviatura>BI</abreviatura><iso_3166_2>IT-BI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Belluno</nombre><abreviatura>BL</abreviatura><iso_3166_2>IT-BL</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Benevento</nombre><abreviatura>BN</abreviatura><iso_3166_2>IT-BN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Bologna</nombre><abreviatura>BO</abreviatura><iso_3166_2>IT-BO</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Brindisi</nombre><abreviatura>BR</abreviatura><iso_3166_2>IT-BR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Brescia</nombre><abreviatura>BS</abreviatura><iso_3166_2>IT-BS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Barletta-Andria-Trani</nombre><abreviatura>BT</abreviatura><iso_3166_2>IT-BT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Bolzano</nombre><abreviatura>BZ</abreviatura><iso_3166_2>IT-BZ</iso_3166_2><tipo>Autonomous province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Cagliari</nombre><abreviatura>CA</abreviatura><iso_3166_2>IT-CA</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Campobasso</nombre><abreviatura>CB</abreviatura><iso_3166_2>IT-CB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Caserta</nombre><abreviatura>CE</abreviatura><iso_3166_2>IT-CE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Chieti</nombre><abreviatura>CH</abreviatura><iso_3166_2>IT-CH</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Caltanissetta</nombre><abreviatura>CL</abreviatura><iso_3166_2>IT-CL</iso_3166_2><tipo>Free municipal consortium</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Cuneo</nombre><abreviatura>CN</abreviatura><iso_3166_2>IT-CN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Como</nombre><abreviatura>CO</abreviatura><iso_3166_2>IT-CO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Cremona</nombre><abreviatura>CR</abreviatura><iso_3166_2>IT-CR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Cosenza</nombre><abreviatura>CS</abreviatura><iso_3166_2>IT-CS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Catania</nombre><abreviatura>CT</abreviatura><iso_3166_2>IT-CT</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Catanzaro</nombre><abreviatura>CZ</abreviatura><iso_3166_2>IT-CZ</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Enna</nombre><abreviatura>EN</abreviatura><iso_3166_2>IT-EN</iso_3166_2><tipo>Free municipal consortium</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Forlì-Cesena</nombre><abreviatura>FC</abreviatura><iso_3166_2>IT-FC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Ferrara</nombre><abreviatura>FE</abreviatura><iso_3166_2>IT-FE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Foggia</nombre><abreviatura>FG</abreviatura><iso_3166_2>IT-FG</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Firenze</nombre><abreviatura>FI</abreviatura><iso_3166_2>IT-FI</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Fermo</nombre><abreviatura>FM</abreviatura><iso_3166_2>IT-FM</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Frosinone</nombre><abreviatura>FR</abreviatura><iso_3166_2>IT-FR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Genova</nombre><abreviatura>GE</abreviatura><iso_3166_2>IT-GE</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Gorizia</nombre><abreviatura>GO</abreviatura><iso_3166_2>IT-GO</iso_3166_2><tipo>Decentralized regional entity</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Grosseto</nombre><abreviatura>GR</abreviatura><iso_3166_2>IT-GR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Imperia</nombre><abreviatura>IM</abreviatura><iso_3166_2>IT-IM</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Isernia</nombre><abreviatura>IS</abreviatura><iso_3166_2>IT-IS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Crotone</nombre><abreviatura>KR</abreviatura><iso_3166_2>IT-KR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Lecco</nombre><abreviatura>LC</abreviatura><iso_3166_2>IT-LC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Lecce</nombre><abreviatura>LE</abreviatura><iso_3166_2>IT-LE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Livorno</nombre><abreviatura>LI</abreviatura><iso_3166_2>IT-LI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Lodi</nombre><abreviatura>LO</abreviatura><iso_3166_2>IT-LO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Latina</nombre><abreviatura>LT</abreviatura><iso_3166_2>IT-LT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Lucca</nombre><abreviatura>LU</abreviatura><iso_3166_2>IT-LU</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Monza e Brianza</nombre><abreviatura>MB</abreviatura><iso_3166_2>IT-MB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Macerata</nombre><abreviatura>MC</abreviatura><iso_3166_2>IT-MC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Messina</nombre><abreviatura>ME</abreviatura><iso_3166_2>IT-ME</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Milano</nombre><abreviatura>MI</abreviatura><iso_3166_2>IT-MI</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Mantova</nombre><abreviatura>MN</abreviatura><iso_3166_2>IT-MN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Modena</nombre><abreviatura>MO</abreviatura><iso_3166_2>IT-MO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Massa-Carrara</nombre><abreviatura>MS</abreviatura><iso_3166_2>IT-MS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Matera</nombre><abreviatura>MT</abreviatura><iso_3166_2>IT-MT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Napoli</nombre><abreviatura>NA</abreviatura><iso_3166_2>IT-NA</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Novara</nombre><abreviatura>NO</abreviatura><iso_3166_2>IT-NO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Nuoro</nombre><abreviatura>NU</abreviatura><iso_3166_2>IT-NU</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Oristano</nombre><abreviatura>OR</abreviatura><iso_3166_2>IT-OR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Palermo</nombre><abreviatura>PA</abreviatura><iso_3166_2>IT-PA</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Piacenza</nombre><abreviatura>PC</abreviatura><iso_3166_2>IT-PC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Padova</nombre><abreviatura>PD</abreviatura><iso_3166_2>IT-PD</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Pescara</nombre><abreviatura>PE</abreviatura><iso_3166_2>IT-PE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Perugia</nombre><abreviatura>PG</abreviatura><iso_3166_2>IT-PG</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Pisa</nombre><abreviatura>PI</abreviatura><iso_3166_2>IT-PI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Pordenone</nombre><abreviatura>PN</abreviatura><iso_3166_2>IT-PN</iso_3166_2><tipo>Decentralized regional entity</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Prato</nombre><abreviatura>PO</abreviatura><iso_3166_2>IT-PO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Parma</nombre><abreviatura>PR</abreviatura><iso_3166_2>IT-PR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Pistoia</nombre><abreviatura>PT</abreviatura><iso_3166_2>IT-PT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Pesaro e Urbino</nombre><abreviatura>PU</abreviatura><iso_3166_2>IT-PU</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Pavia</nombre><abreviatura>PV</abreviatura><iso_3166_2>IT-PV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Potenza</nombre><abreviatura>PZ</abreviatura><iso_3166_2>IT-PZ</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Ravenna</nombre><abreviatura>RA</abreviatura><iso_3166_2>IT-RA</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Reggio Calabria</nombre><abreviatura>RC</abreviatura><iso_3166_2>IT-RC</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Reggio Emilia</nombre><abreviatura>RE</abreviatura><iso_3166_2>IT-RE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Ragusa</nombre><abreviatura>RG</abreviatura><iso_3166_2>IT-RG</iso_3166_2><tipo>Free municipal consortium</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Rieti</nombre><abreviatura>RI</abreviatura><iso_3166_2>IT-RI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Roma</nombre><abreviatura>RM</abreviatura><iso_3166_2>IT-RM</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Rimini</nombre><abreviatura>RN</abreviatura><iso_3166_2>IT-RN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Rovigo</nombre><abreviatura>RO</abreviatura><iso_3166_2>IT-RO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Salerno</nombre><abreviatura>SA</abreviatura><iso_3166_2>IT-SA</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Siena</nombre><abreviatura>SI</abreviatura><iso_3166_2>IT-SI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Sondrio</nombre><abreviatura>SO</abreviatura><iso_3166_2>IT-SO</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>La Spezia</nombre><abreviatura>SP</abreviatura><iso_3166_2>IT-SP</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Siracusa</nombre><abreviatura>SR</abreviatura><iso_3166_2>IT-SR</iso_3166_2><tipo>Free municipal consortium</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Sassari</nombre><abreviatura>SS</abreviatura><iso_3166_2>IT-SS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Sud Sardegna</nombre><abreviatura>SU</abreviatura><iso_3166_2>IT-SU</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Savona</nombre><abreviatura>SV</abreviatura><iso_3166_2>IT-SV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Taranto</nombre><abreviatura>TA</abreviatura><iso_3166_2>IT-TA</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Teramo</nombre><abreviatura>TE</abreviatura><iso_3166_2>IT-TE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Trento</nombre><abreviatura>TN</abreviatura><iso_3166_2>IT-TN</iso_3166_2><tipo>Autonomous province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Torino</nombre><abreviatura>TO</abreviatura><iso_3166_2>IT-TO</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Trapani</nombre><abreviatura>TP</abreviatura><iso_3166_2>IT-TP</iso_3166_2><tipo>Free municipal consortium</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Terni</nombre><abreviatura>TR</abreviatura><iso_3166_2>IT-TR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Trieste</nombre><abreviatura>TS</abreviatura><iso_3166_2>IT-TS</iso_3166_2><tipo>Decentralized regional entity</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Treviso</nombre><abreviatura>TV</abreviatura><iso_3166_2>IT-TV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Udine</nombre><abreviatura>UD</abreviatura><iso_3166_2>IT-UD</iso_3166_2><tipo>Decentralized regional entity</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Varese</nombre><abreviatura>VA</abreviatura><iso_3166_2>IT-VA</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Verbano-Cusio-Ossola</nombre><abreviatura>VB</abreviatura><iso_3166_2>IT-VB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Vercelli</nombre><abreviatura>VC</abreviatura><iso_3166_2>IT-VC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Venezia</nombre><abreviatura>VE</abreviatura><iso_3166_2>IT-VE</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Vicenza</nombre><abreviatura>VI</abreviatura><iso_3166_2>IT-VI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Verona</nombre><abreviatura>VR</abreviatura><iso_3166_2>IT-VR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Viterbo</nombre><abreviatura>VT</abreviatura><iso_3166_2>IT-VT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>IT</iso2><pais>Italy</pais><nombre>Vibo Valentia</nombre><abreviatura>VV</abreviatura><iso_3166_2>IT-VV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Hokkaido</nombre><abreviatura>01</abreviatura><iso_3166_2>JP-01</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Aomori</nombre><abreviatura>02</abreviatura><iso_3166_2>JP-02</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Iwate</nombre><abreviatura>03</abreviatura><iso_3166_2>JP-03</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Miyagi</nombre><abreviatura>04</abreviatura><iso_3166_2>JP-04</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Akita</nombre><abreviatura>05</abreviatura><iso_3166_2>JP-05</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Yamagata</nombre><abreviatura>06</abreviatura><iso_3166_2>JP-06</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Fukushima</nombre><abreviatura>07</abreviatura><iso_3166_2>JP-07</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Ibaraki</nombre><abreviatura>08</abreviatura><iso_3166_2>JP-08</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Tochigi</nombre><abreviatura>09</abreviatura><iso_3166_2>JP-09</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Gunma</nombre><abreviatura>10</abreviatura><iso_3166_2>JP-10</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Saitama</nombre><abreviatura>11</abreviatura><iso_3166_2>JP-11</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Chiba</nombre><abreviatura>12</abreviatura><iso_3166_2>JP-12</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Tokyo</nombre><abreviatura>13</abreviatura><iso_3166_2>JP-13</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Kanagawa</nombre><abreviatura>14</abreviatura><iso_3166_2>JP-14</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Niigata</nombre><abreviatura>15</abreviatura><iso_3166_2>JP-15</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Toyama</nombre><abreviatura>16</abreviatura><iso_3166_2>JP-16</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Ishikawa</nombre><abreviatura>17</abreviatura><iso_3166_2>JP-17</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Fukui</nombre><abreviatura>18</abreviatura><iso_3166_2>JP-18</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Yamanashi</nombre><abreviatura>19</abreviatura><iso_3166_2>JP-19</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Nagano</nombre><abreviatura>20</abreviatura><iso_3166_2>JP-20</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Gifu</nombre><abreviatura>21</abreviatura><iso_3166_2>JP-21</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Shizuoka</nombre><abreviatura>22</abreviatura><iso_3166_2>JP-22</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Aichi</nombre><abreviatura>23</abreviatura><iso_3166_2>JP-23</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Mie</nombre><abreviatura>24</abreviatura><iso_3166_2>JP-24</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Shiga</nombre><abreviatura>25</abreviatura><iso_3166_2>JP-25</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Kyoto</nombre><abreviatura>26</abreviatura><iso_3166_2>JP-26</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Osaka</nombre><abreviatura>27</abreviatura><iso_3166_2>JP-27</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Hyogo</nombre><abreviatura>28</abreviatura><iso_3166_2>JP-28</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Nara</nombre><abreviatura>29</abreviatura><iso_3166_2>JP-29</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Wakayama</nombre><abreviatura>30</abreviatura><iso_3166_2>JP-30</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Tottori</nombre><abreviatura>31</abreviatura><iso_3166_2>JP-31</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Shimane</nombre><abreviatura>32</abreviatura><iso_3166_2>JP-32</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Okayama</nombre><abreviatura>33</abreviatura><iso_3166_2>JP-33</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Hiroshima</nombre><abreviatura>34</abreviatura><iso_3166_2>JP-34</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Yamaguchi</nombre><abreviatura>35</abreviatura><iso_3166_2>JP-35</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Tokushima</nombre><abreviatura>36</abreviatura><iso_3166_2>JP-36</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Kagawa</nombre><abreviatura>37</abreviatura><iso_3166_2>JP-37</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Ehime</nombre><abreviatura>38</abreviatura><iso_3166_2>JP-38</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Kochi</nombre><abreviatura>39</abreviatura><iso_3166_2>JP-39</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Fukuoka</nombre><abreviatura>40</abreviatura><iso_3166_2>JP-40</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Saga</nombre><abreviatura>41</abreviatura><iso_3166_2>JP-41</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Nagasaki</nombre><abreviatura>42</abreviatura><iso_3166_2>JP-42</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Kumamoto</nombre><abreviatura>43</abreviatura><iso_3166_2>JP-43</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Oita</nombre><abreviatura>44</abreviatura><iso_3166_2>JP-44</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Miyazaki</nombre><abreviatura>45</abreviatura><iso_3166_2>JP-45</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Kagoshima</nombre><abreviatura>46</abreviatura><iso_3166_2>JP-46</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>JP</iso2><pais>Japan</pais><nombre>Okinawa</nombre><abreviatura>47</abreviatura><iso_3166_2>JP-47</iso_3166_2><tipo>Prefecture</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Seoul-teukbyeolsi</nombre><abreviatura>11</abreviatura><iso_3166_2>KR-11</iso_3166_2><tipo>Special city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Busan-gwangyeoksi</nombre><abreviatura>26</abreviatura><iso_3166_2>KR-26</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Daegu-gwangyeoksi</nombre><abreviatura>27</abreviatura><iso_3166_2>KR-27</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Incheon-gwangyeoksi</nombre><abreviatura>28</abreviatura><iso_3166_2>KR-28</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Gwangju-gwangyeoksi</nombre><abreviatura>29</abreviatura><iso_3166_2>KR-29</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Daejeon-gwangyeoksi</nombre><abreviatura>30</abreviatura><iso_3166_2>KR-30</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Ulsan-gwangyeoksi</nombre><abreviatura>31</abreviatura><iso_3166_2>KR-31</iso_3166_2><tipo>Metropolitan city</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Gyeonggi-do</nombre><abreviatura>41</abreviatura><iso_3166_2>KR-41</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Gangwon-teukbyeoljachido</nombre><abreviatura>42</abreviatura><iso_3166_2>KR-42</iso_3166_2><tipo>Special self-governing province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Chungcheongbuk-do</nombre><abreviatura>43</abreviatura><iso_3166_2>KR-43</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Chungcheongnam-do</nombre><abreviatura>44</abreviatura><iso_3166_2>KR-44</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Jeollabuk-do</nombre><abreviatura>45</abreviatura><iso_3166_2>KR-45</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Jeollanam-do</nombre><abreviatura>46</abreviatura><iso_3166_2>KR-46</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Gyeongsangbuk-do</nombre><abreviatura>47</abreviatura><iso_3166_2>KR-47</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Gyeongsangnam-do</nombre><abreviatura>48</abreviatura><iso_3166_2>KR-48</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Jeju-teukbyeoljachido</nombre><abreviatura>49</abreviatura><iso_3166_2>KR-49</iso_3166_2><tipo>Special self-governing province</tipo></subdivision>
+  <subdivision><iso2>KR</iso2><pais>Korea, Republic of</pais><nombre>Sejong</nombre><abreviatura>50</abreviatura><iso_3166_2>KR-50</iso_3166_2><tipo>Special self-governing city</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Aruba</nombre><abreviatura>AW</abreviatura><iso_3166_2>NL-AW</iso_3166_2><tipo>Country</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Bonaire</nombre><abreviatura>BQ1</abreviatura><iso_3166_2>NL-BQ1</iso_3166_2><tipo>Special municipality</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Saba</nombre><abreviatura>BQ2</abreviatura><iso_3166_2>NL-BQ2</iso_3166_2><tipo>Special municipality</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Sint Eustatius</nombre><abreviatura>BQ3</abreviatura><iso_3166_2>NL-BQ3</iso_3166_2><tipo>Special municipality</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Curaçao</nombre><abreviatura>CW</abreviatura><iso_3166_2>NL-CW</iso_3166_2><tipo>Country</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Drenthe</nombre><abreviatura>DR</abreviatura><iso_3166_2>NL-DR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Flevoland</nombre><abreviatura>FL</abreviatura><iso_3166_2>NL-FL</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Fryslân</nombre><abreviatura>FR</abreviatura><iso_3166_2>NL-FR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Gelderland</nombre><abreviatura>GE</abreviatura><iso_3166_2>NL-GE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Groningen</nombre><abreviatura>GR</abreviatura><iso_3166_2>NL-GR</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Limburg</nombre><abreviatura>LI</abreviatura><iso_3166_2>NL-LI</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Noord-Brabant</nombre><abreviatura>NB</abreviatura><iso_3166_2>NL-NB</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Noord-Holland</nombre><abreviatura>NH</abreviatura><iso_3166_2>NL-NH</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Overijssel</nombre><abreviatura>OV</abreviatura><iso_3166_2>NL-OV</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Sint Maarten</nombre><abreviatura>SX</abreviatura><iso_3166_2>NL-SX</iso_3166_2><tipo>Country</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Utrecht</nombre><abreviatura>UT</abreviatura><iso_3166_2>NL-UT</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Zeeland</nombre><abreviatura>ZE</abreviatura><iso_3166_2>NL-ZE</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NL</iso2><pais>Netherlands</pais><nombre>Zuid-Holland</nombre><abreviatura>ZH</abreviatura><iso_3166_2>NL-ZH</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Auckland</nombre><abreviatura>AUK</abreviatura><iso_3166_2>NZ-AUK</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Bay of Plenty</nombre><abreviatura>BOP</abreviatura><iso_3166_2>NZ-BOP</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Canterbury</nombre><abreviatura>CAN</abreviatura><iso_3166_2>NZ-CAN</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Chatham Islands Territory</nombre><abreviatura>CIT</abreviatura><iso_3166_2>NZ-CIT</iso_3166_2><tipo>Special island authority</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Gisborne</nombre><abreviatura>GIS</abreviatura><iso_3166_2>NZ-GIS</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Hawke's Bay</nombre><abreviatura>HKB</abreviatura><iso_3166_2>NZ-HKB</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Marlborough</nombre><abreviatura>MBH</abreviatura><iso_3166_2>NZ-MBH</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Manawatū-Whanganui</nombre><abreviatura>MWT</abreviatura><iso_3166_2>NZ-MWT</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Nelson</nombre><abreviatura>NSN</abreviatura><iso_3166_2>NZ-NSN</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Northland</nombre><abreviatura>NTL</abreviatura><iso_3166_2>NZ-NTL</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Otago</nombre><abreviatura>OTA</abreviatura><iso_3166_2>NZ-OTA</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Southland</nombre><abreviatura>STL</abreviatura><iso_3166_2>NZ-STL</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Tasman</nombre><abreviatura>TAS</abreviatura><iso_3166_2>NZ-TAS</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Taranaki</nombre><abreviatura>TKI</abreviatura><iso_3166_2>NZ-TKI</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Greater Wellington</nombre><abreviatura>WGN</abreviatura><iso_3166_2>NZ-WGN</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>Waikato</nombre><abreviatura>WKO</abreviatura><iso_3166_2>NZ-WKO</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>NZ</iso2><pais>New Zealand</pais><nombre>West Coast</nombre><abreviatura>WTC</abreviatura><iso_3166_2>NZ-WTC</iso_3166_2><tipo>Region</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Dolnośląskie</nombre><abreviatura>02</abreviatura><iso_3166_2>PL-02</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Kujawsko-Pomorskie</nombre><abreviatura>04</abreviatura><iso_3166_2>PL-04</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Lubelskie</nombre><abreviatura>06</abreviatura><iso_3166_2>PL-06</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Lubuskie</nombre><abreviatura>08</abreviatura><iso_3166_2>PL-08</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Łódzkie</nombre><abreviatura>10</abreviatura><iso_3166_2>PL-10</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Małopolskie</nombre><abreviatura>12</abreviatura><iso_3166_2>PL-12</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Mazowieckie</nombre><abreviatura>14</abreviatura><iso_3166_2>PL-14</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Opolskie</nombre><abreviatura>16</abreviatura><iso_3166_2>PL-16</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Podkarpackie</nombre><abreviatura>18</abreviatura><iso_3166_2>PL-18</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Podlaskie</nombre><abreviatura>20</abreviatura><iso_3166_2>PL-20</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Pomorskie</nombre><abreviatura>22</abreviatura><iso_3166_2>PL-22</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Śląskie</nombre><abreviatura>24</abreviatura><iso_3166_2>PL-24</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Świętokrzyskie</nombre><abreviatura>26</abreviatura><iso_3166_2>PL-26</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Warmińsko-Mazurskie</nombre><abreviatura>28</abreviatura><iso_3166_2>PL-28</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Wielkopolskie</nombre><abreviatura>30</abreviatura><iso_3166_2>PL-30</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PL</iso2><pais>Poland</pais><nombre>Zachodniopomorskie</nombre><abreviatura>32</abreviatura><iso_3166_2>PL-32</iso_3166_2><tipo>Voivodship</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Aveiro</nombre><abreviatura>01</abreviatura><iso_3166_2>PT-01</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Beja</nombre><abreviatura>02</abreviatura><iso_3166_2>PT-02</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Braga</nombre><abreviatura>03</abreviatura><iso_3166_2>PT-03</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Bragança</nombre><abreviatura>04</abreviatura><iso_3166_2>PT-04</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Castelo Branco</nombre><abreviatura>05</abreviatura><iso_3166_2>PT-05</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Coimbra</nombre><abreviatura>06</abreviatura><iso_3166_2>PT-06</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Évora</nombre><abreviatura>07</abreviatura><iso_3166_2>PT-07</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Faro</nombre><abreviatura>08</abreviatura><iso_3166_2>PT-08</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Guarda</nombre><abreviatura>09</abreviatura><iso_3166_2>PT-09</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Leiria</nombre><abreviatura>10</abreviatura><iso_3166_2>PT-10</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Lisboa</nombre><abreviatura>11</abreviatura><iso_3166_2>PT-11</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Portalegre</nombre><abreviatura>12</abreviatura><iso_3166_2>PT-12</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Porto</nombre><abreviatura>13</abreviatura><iso_3166_2>PT-13</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Santarém</nombre><abreviatura>14</abreviatura><iso_3166_2>PT-14</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Setúbal</nombre><abreviatura>15</abreviatura><iso_3166_2>PT-15</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Viana do Castelo</nombre><abreviatura>16</abreviatura><iso_3166_2>PT-16</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Vila Real</nombre><abreviatura>17</abreviatura><iso_3166_2>PT-17</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Viseu</nombre><abreviatura>18</abreviatura><iso_3166_2>PT-18</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Região Autónoma dos Açores</nombre><abreviatura>20</abreviatura><iso_3166_2>PT-20</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>PT</iso2><pais>Portugal</pais><nombre>Região Autónoma da Madeira</nombre><abreviatura>30</abreviatura><iso_3166_2>PT-30</iso_3166_2><tipo>Autonomous region</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Stockholms län [SE-01]</nombre><abreviatura>AB</abreviatura><iso_3166_2>SE-AB</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Västerbottens län [SE-24]</nombre><abreviatura>AC</abreviatura><iso_3166_2>SE-AC</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Norrbottens län [SE-25]</nombre><abreviatura>BD</abreviatura><iso_3166_2>SE-BD</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Uppsala län [SE-03]</nombre><abreviatura>C</abreviatura><iso_3166_2>SE-C</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Södermanlands län [SE-04]</nombre><abreviatura>D</abreviatura><iso_3166_2>SE-D</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Östergötlands län [SE-05]</nombre><abreviatura>E</abreviatura><iso_3166_2>SE-E</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Jönköpings län [SE-06]</nombre><abreviatura>F</abreviatura><iso_3166_2>SE-F</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Kronobergs län [SE-07]</nombre><abreviatura>G</abreviatura><iso_3166_2>SE-G</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Kalmar län [SE-08]</nombre><abreviatura>H</abreviatura><iso_3166_2>SE-H</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Gotlands län [SE-09]</nombre><abreviatura>I</abreviatura><iso_3166_2>SE-I</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Blekinge län [SE-10]</nombre><abreviatura>K</abreviatura><iso_3166_2>SE-K</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Skåne län [SE-12]</nombre><abreviatura>M</abreviatura><iso_3166_2>SE-M</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Hallands län [SE-13]</nombre><abreviatura>N</abreviatura><iso_3166_2>SE-N</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Västra Götalands län [SE-14]</nombre><abreviatura>O</abreviatura><iso_3166_2>SE-O</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Värmlands län [SE-17]</nombre><abreviatura>S</abreviatura><iso_3166_2>SE-S</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Örebro län [SE-18]</nombre><abreviatura>T</abreviatura><iso_3166_2>SE-T</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Västmanlands län [SE-19]</nombre><abreviatura>U</abreviatura><iso_3166_2>SE-U</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Dalarnas län [SE-20]</nombre><abreviatura>W</abreviatura><iso_3166_2>SE-W</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Gävleborgs län [SE-21]</nombre><abreviatura>X</abreviatura><iso_3166_2>SE-X</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Västernorrlands län [SE-22]</nombre><abreviatura>Y</abreviatura><iso_3166_2>SE-Y</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SE</iso2><pais>Sweden</pais><nombre>Jämtlands län [SE-23]</nombre><abreviatura>Z</abreviatura><iso_3166_2>SE-Z</iso_3166_2><tipo>County</tipo></subdivision>
+  <subdivision><iso2>SG</iso2><pais>Singapore</pais><nombre>Central Singapore</nombre><abreviatura>01</abreviatura><iso_3166_2>SG-01</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>SG</iso2><pais>Singapore</pais><nombre>North East</nombre><abreviatura>02</abreviatura><iso_3166_2>SG-02</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>SG</iso2><pais>Singapore</pais><nombre>North West</nombre><abreviatura>03</abreviatura><iso_3166_2>SG-03</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>SG</iso2><pais>Singapore</pais><nombre>South East</nombre><abreviatura>04</abreviatura><iso_3166_2>SG-04</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>SG</iso2><pais>Singapore</pais><nombre>South West</nombre><abreviatura>05</abreviatura><iso_3166_2>SG-05</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Alaska</nombre><abreviatura>AK</abreviatura><iso_3166_2>US-AK</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Alabama</nombre><abreviatura>AL</abreviatura><iso_3166_2>US-AL</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Arkansas</nombre><abreviatura>AR</abreviatura><iso_3166_2>US-AR</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>American Samoa</nombre><abreviatura>AS</abreviatura><iso_3166_2>US-AS</iso_3166_2><tipo>Outlying area</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Arizona</nombre><abreviatura>AZ</abreviatura><iso_3166_2>US-AZ</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>California</nombre><abreviatura>CA</abreviatura><iso_3166_2>US-CA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Colorado</nombre><abreviatura>CO</abreviatura><iso_3166_2>US-CO</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Connecticut</nombre><abreviatura>CT</abreviatura><iso_3166_2>US-CT</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>District of Columbia</nombre><abreviatura>DC</abreviatura><iso_3166_2>US-DC</iso_3166_2><tipo>District</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Delaware</nombre><abreviatura>DE</abreviatura><iso_3166_2>US-DE</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Florida</nombre><abreviatura>FL</abreviatura><iso_3166_2>US-FL</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Georgia</nombre><abreviatura>GA</abreviatura><iso_3166_2>US-GA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Guam</nombre><abreviatura>GU</abreviatura><iso_3166_2>US-GU</iso_3166_2><tipo>Outlying area</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Hawaii</nombre><abreviatura>HI</abreviatura><iso_3166_2>US-HI</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Iowa</nombre><abreviatura>IA</abreviatura><iso_3166_2>US-IA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Idaho</nombre><abreviatura>ID</abreviatura><iso_3166_2>US-ID</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Illinois</nombre><abreviatura>IL</abreviatura><iso_3166_2>US-IL</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Indiana</nombre><abreviatura>IN</abreviatura><iso_3166_2>US-IN</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Kansas</nombre><abreviatura>KS</abreviatura><iso_3166_2>US-KS</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Kentucky</nombre><abreviatura>KY</abreviatura><iso_3166_2>US-KY</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Louisiana</nombre><abreviatura>LA</abreviatura><iso_3166_2>US-LA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Massachusetts</nombre><abreviatura>MA</abreviatura><iso_3166_2>US-MA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Maryland</nombre><abreviatura>MD</abreviatura><iso_3166_2>US-MD</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Maine</nombre><abreviatura>ME</abreviatura><iso_3166_2>US-ME</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Michigan</nombre><abreviatura>MI</abreviatura><iso_3166_2>US-MI</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Minnesota</nombre><abreviatura>MN</abreviatura><iso_3166_2>US-MN</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Missouri</nombre><abreviatura>MO</abreviatura><iso_3166_2>US-MO</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Northern Mariana Islands</nombre><abreviatura>MP</abreviatura><iso_3166_2>US-MP</iso_3166_2><tipo>Outlying area</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Mississippi</nombre><abreviatura>MS</abreviatura><iso_3166_2>US-MS</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Montana</nombre><abreviatura>MT</abreviatura><iso_3166_2>US-MT</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>North Carolina</nombre><abreviatura>NC</abreviatura><iso_3166_2>US-NC</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>North Dakota</nombre><abreviatura>ND</abreviatura><iso_3166_2>US-ND</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Nebraska</nombre><abreviatura>NE</abreviatura><iso_3166_2>US-NE</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>New Hampshire</nombre><abreviatura>NH</abreviatura><iso_3166_2>US-NH</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>New Jersey</nombre><abreviatura>NJ</abreviatura><iso_3166_2>US-NJ</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>New Mexico</nombre><abreviatura>NM</abreviatura><iso_3166_2>US-NM</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Nevada</nombre><abreviatura>NV</abreviatura><iso_3166_2>US-NV</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>New York</nombre><abreviatura>NY</abreviatura><iso_3166_2>US-NY</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Ohio</nombre><abreviatura>OH</abreviatura><iso_3166_2>US-OH</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Oklahoma</nombre><abreviatura>OK</abreviatura><iso_3166_2>US-OK</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Oregon</nombre><abreviatura>OR</abreviatura><iso_3166_2>US-OR</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Pennsylvania</nombre><abreviatura>PA</abreviatura><iso_3166_2>US-PA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Puerto Rico</nombre><abreviatura>PR</abreviatura><iso_3166_2>US-PR</iso_3166_2><tipo>Outlying area</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Rhode Island</nombre><abreviatura>RI</abreviatura><iso_3166_2>US-RI</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>South Carolina</nombre><abreviatura>SC</abreviatura><iso_3166_2>US-SC</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>South Dakota</nombre><abreviatura>SD</abreviatura><iso_3166_2>US-SD</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Tennessee</nombre><abreviatura>TN</abreviatura><iso_3166_2>US-TN</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Texas</nombre><abreviatura>TX</abreviatura><iso_3166_2>US-TX</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>United States Minor Outlying Islands</nombre><abreviatura>UM</abreviatura><iso_3166_2>US-UM</iso_3166_2><tipo>Outlying area</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Utah</nombre><abreviatura>UT</abreviatura><iso_3166_2>US-UT</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Virginia</nombre><abreviatura>VA</abreviatura><iso_3166_2>US-VA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Virgin Islands, U.S.</nombre><abreviatura>VI</abreviatura><iso_3166_2>US-VI</iso_3166_2><tipo>Outlying area</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Vermont</nombre><abreviatura>VT</abreviatura><iso_3166_2>US-VT</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Washington</nombre><abreviatura>WA</abreviatura><iso_3166_2>US-WA</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Wisconsin</nombre><abreviatura>WI</abreviatura><iso_3166_2>US-WI</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>West Virginia</nombre><abreviatura>WV</abreviatura><iso_3166_2>US-WV</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>US</iso2><pais>United States</pais><nombre>Wyoming</nombre><abreviatura>WY</abreviatura><iso_3166_2>US-WY</iso_3166_2><tipo>State</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Eastern Cape</nombre><abreviatura>EC</abreviatura><iso_3166_2>ZA-EC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Free State</nombre><abreviatura>FS</abreviatura><iso_3166_2>ZA-FS</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Gauteng</nombre><abreviatura>GP</abreviatura><iso_3166_2>ZA-GP</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Kwazulu-Natal</nombre><abreviatura>KZN</abreviatura><iso_3166_2>ZA-KZN</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Limpopo</nombre><abreviatura>LP</abreviatura><iso_3166_2>ZA-LP</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Mpumalanga</nombre><abreviatura>MP</abreviatura><iso_3166_2>ZA-MP</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Northern Cape</nombre><abreviatura>NC</abreviatura><iso_3166_2>ZA-NC</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>North-West</nombre><abreviatura>NW</abreviatura><iso_3166_2>ZA-NW</iso_3166_2><tipo>Province</tipo></subdivision>
+  <subdivision><iso2>ZA</iso2><pais>South Africa</pais><nombre>Western Cape</nombre><abreviatura>WC</abreviatura><iso_3166_2>ZA-WC</iso_3166_2><tipo>Province</tipo></subdivision>
+</subdivisiones>

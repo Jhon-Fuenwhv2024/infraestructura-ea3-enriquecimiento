@@ -1,0 +1,62 @@
+name: Big Data - Limpieza y Enriquecimiento (EA2 + EA3)
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  limpieza-y-enriquecimiento:
+    name: Limpieza (cleaning.py) + Enriquecimiento (enrichement.py)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install .
+
+      - name: Limpieza de datos (EA2)
+        run: python src/cleaning.py
+
+      - name: Enriquecimiento de datos (EA3)
+        run: python src/enrichement.py
+
+      - name: Verificar conteos con conteo independiente
+        run: python src/verificar_conteos.py
+
+      - name: Verificar artefactos
+        run: |
+          set -e
+          test -s src/xlsx/enriched_data.xlsx
+          test -s src/static/xlsx/enriched_data.xlsx
+          test -s src/static/auditoria/enriched_report.txt
+          cmp src/db/ingestion.db src/static/db/ingestion.db
+          ls -la src/xlsx src/static/xlsx src/static/auditoria
+          head -25 src/static/auditoria/enriched_report.txt
+
+      - name: Subir artefactos de limpieza
+        uses: actions/upload-artifact@v4
+        with:
+          name: ea2-cleaned-data
+          path: |
+            src/static/xlsx/cleaned_data.xlsx
+            src/static/auditoria/cleaning_report.txt
+          if-no-files-found: error
+
+      - name: Subir artefactos de enriquecimiento
+        uses: actions/upload-artifact@v4
+        with:
+          name: ea3-enriched-data
+          path: |
+            src/xlsx/enriched_data.xlsx
+            src/static/auditoria/enriched_report.txt
+          if-no-files-found: error

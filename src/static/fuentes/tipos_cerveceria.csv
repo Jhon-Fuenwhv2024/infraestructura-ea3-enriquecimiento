@@ -1,0 +1,11 @@
+tipo,descripcion_tipo,estado_operativo,obsoleto_en_api,origen
+micro,La mayoria de las cerveceras artesanales,Operativa,No,Open Brewery DB docs (2026-09-30)
+nano,"Cerveceria extremadamente pequena, distribucion local",Operativa,No,Open Brewery DB docs (2026-09-30)
+regional,Sede regional de una cerveceria ampliada,Operativa,No,Open Brewery DB docs (2026-09-30)
+brewpub,Restaurante o bar orientado a la cerveza con cerveceria en el local,Operativa,No,Open Brewery DB docs (2026-09-30)
+large,"Cerveceria muy grande, probablemente no apta para visitantes",Operativa,Si,Open Brewery DB docs (2026-09-30)
+planning,Cerveceria en planeacion o aun sin abrir al publico,No abierta,No,Open Brewery DB docs (2026-09-30)
+bar,Bar sin equipo de cerveceria en el local,Operativa,Si,Open Brewery DB docs (2026-09-30)
+contract,Cerveceria que usa el equipo de otra cerveceria,Operativa,No,Open Brewery DB docs (2026-09-30)
+proprietor,Similar a contrato; incubadora de cervecerias,Operativa,No,Open Brewery DB docs (2026-09-30)
+closed,Ubicacion cerrada,Cerrada,No,Open Brewery DB docs (2026-09-30)

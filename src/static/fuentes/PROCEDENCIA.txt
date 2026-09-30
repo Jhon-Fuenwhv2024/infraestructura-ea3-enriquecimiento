@@ -1,0 +1,17 @@
+PROCEDENCIA DE LAS FUENTES ADICIONALES (EA3) - armadas con src/generar_fuentes.py
+=====================================================================================
+Estas fuentes son archivos de referencia que construi yo; no son descargas de una
+API externa. Abajo dejo de donde sale el contenido de cada archivo.
+
+paises.json          ISO 3166-1 (pycountry 26.2.16: nombre, alfa-2, alfa-3, numerico) + continente compilado a mano.
+paises_capital.xlsx  Capital: la compile a mano (conocimiento general). Moneda: CLDR via babel 2.18.0.
+tipos_cerveceria.csv Tipos segun la documentacion publica de Open Brewery DB (consultada 2026-09-30). taproom, cidery y
+                     beergarden existen en el dataset pero no figuran en esa pagina: quedan SIN fuente (no coincidentes).
+estados.xml          ISO 3166-2 completo (pycountry 26.2.16) de los paises del dataset. Sin recorte: los estados/provincias del
+                     dataset que no coinciden (p. ej. 'Vlaanderen', 'Ostrobothnia') quedan como no coincidentes.
+ciudades.html        Huso horario IANA (timezonefinder 9.0.0) del centroide de coordenadas del dataset, solo ciudades con
+                     >= 3 cervecerias con coordenadas. Es DERIVADO del propio dataset; su cobertura es parcial por diseno.
+idiomas.txt          Idiomas oficiales/de facto por territorio (CLDR via babel 2.18.0).
+
+Limitaciones: England y Scotland los asigne a GB; las capitales y los continentes los compile a mano; ninguna fuente trae
+informacion de negocio real de las cervecerias (ventas, produccion, etc.).

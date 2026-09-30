@@ -1,0 +1,24 @@
+# Idiomas oficiales / de facto por territorio. Fuente: CLDR via babel 2.18.0 (get_official_languages, regional=False, de_facto=True).
+# Formato: iso2|idiomas_oficiales|idioma_principal (nombres en espanol). Lineas con # son comentarios.
+iso2|idiomas_oficiales|idioma_principal
+AT|Alemán|Alemán
+AU|Inglés|Inglés
+BE|Neerlandés/Francés/Alemán|Neerlandés
+CA|Inglés/Francés|Inglés
+DE|Alemán|Alemán
+FI|Finés/Sueco|Finés
+FR|Francés|Francés
+GB|Inglés|Inglés
+IE|Inglés/Irlandés|Inglés
+IM|Inglés/Manés|Inglés
+IT|Italiano|Italiano
+JP|Japonés|Japonés
+KR|Coreano|Coreano
+NL|Neerlandés|Neerlandés
+NZ|Inglés/Maorí|Inglés
+PL|Polaco|Polaco
+PT|Portugués|Portugués
+SE|Sueco|Sueco
+SG|Inglés/Chino/Malayo/Tamil|Inglés
+US|Inglés|Inglés
+ZA|Inglés|Inglés

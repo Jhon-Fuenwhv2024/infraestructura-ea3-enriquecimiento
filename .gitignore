@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.DS_Store
+# La evidencia de entrega (src/static/**, src/xlsx, src/db) SI se versiona.
