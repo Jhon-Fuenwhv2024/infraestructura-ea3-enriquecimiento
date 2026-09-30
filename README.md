@@ -2,7 +2,7 @@
 
 **Autor:** Jhon Jairo Fuentes Turizo · **Institución:** IU Digital de Antioquia
 **Curso:** Infraestructura y arquitectura para Big Data · **Actividad:** EA3 – Enriquecimiento de datos
-**Fecha:** 30 de septiembre de 2026
+**Fecha:** de septiembre de 2026
 **Repositorio:** https://github.com/Jhon-Fuenwhv2024/infraestructura-ea3-enriquecimiento
 
 ## Qué hice y cómo se conecta con las otras actividades
@@ -15,7 +15,6 @@ En esta actividad tomé el dataset limpio de la EA2 y lo enriquecí con seis fue
 | EA1 | Ingesta desde Open Brewery DB (API) a base de datos | `src/static/db/ingestion.db` (SQLite que simula la nube; tabla `cerveceria`, 3 025 filas) |
 | EA2 | Limpieza de datos | `src/cleaning.py` → `src/static/xlsx/cleaned_data.xlsx` (3 000 filas) y `src/static/auditoria/cleaning_report.txt` |
 | **EA3** | **Enriquecimiento con 6 fuentes (JSON, XLSX, CSV, XML, HTML, TXT)** | `src/enrichement.py` → `src/xlsx/enriched_data.xlsx` y `src/static/auditoria/enriched_report.txt` |
-| EA4 | Documentación de arquitectura y modelo de datos | Está en otro repositorio: https://github.com/Jhon-Fuenwhv2024/infraestructura-ea4-arquitectura |
 
 ## Sobre las fuentes adicionales (aclaración)
 
