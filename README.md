@@ -2,7 +2,7 @@
 
 **Autor:** Jhon Jairo Fuentes Turizo · **Institución:** IU Digital de Antioquia
 **Curso:** Infraestructura y arquitectura para Big Data · **Actividad:** EA3 – Enriquecimiento de datos
-**Fecha:** de septiembre de 2026
+**Fecha:** septiembre de 2026
 **Repositorio:** https://github.com/Jhon-Fuenwhv2024/infraestructura-ea3-enriquecimiento
 
 ## Qué hice y cómo se conecta con las otras actividades
